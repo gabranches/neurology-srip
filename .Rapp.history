@@ -1,0 +1,213 @@
+source('srip/run.r')
+source('srip/run.r')
+library(gdata)
+install.packages("gdata")
+install.packages("gdata")
+getwd()
+source('srip/run.r')
+source('srip/run.r')
+source('srip/run.r')
+source('run.r')
+help.search('paste')
+help.search(paste)
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+df
+full_data
+full_data[site_os_id == 77089]
+full_data[full_data$site_os_id == 77089]
+full_data.columns
+colnames(full_data)
+full_data$site_os_id
+full_data$site_os_id == 77089
+full_data[full_data$site_os_id == 77089]
+full_data[full_data$site_os_id == 77089, ]
+source('run.r')
+n <- 1:15
+n
+source('run.r')
+source('run.r')
+source('run.r')
+outcomes_df
+outcomes_df
+source('run.r')
+outcomes_df[1]
+source('run.r')
+outcomes_c[1]
+outcomes_vector[1]
+outcomes_vector[11]
+aggregage(full_data$site_os_id)
+aggregate(full_data$site_os_id)
+aggregate(full_data$site_os_id, FUN=count)
+aggregate(full_data$site_os_id, FUN=sum)
+count(full_data, "site_os_id")
+table(full_data)
+table(full_data$site_os_id)
+full_data
+c(full_data$site_os_id)
+unique(full_data$site_os_id)
+unique(full_data$site_os_id)
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+df2
+source('run.r')
+source('run.r')
+df2
+df2$Percent_Region
+df2[Percent_Region]
+df2[df2$Percent_Region]
+df2[df2$Percent_Region,]
+df2
+df2$outcome
+df2$Percent_Hospital
+df2$Percent_Hospital
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+data
+data
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+df
+df2
+table(df2$race)
+table(df2$race)
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+c1 <- c(93%, 90%)
+c1 <- c(93%, 90%)
+c1 <- c(93, 90)
+c2 <- c(63, 50)
+dat <- cbind(c1, c2)
+barplot(dat, beside=TRUE, horiz=TRUE)
+barplot(dat, beside=TRUE, horiz=TRUE)
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+?pdf
+source('run.r')
+source('run.r')
+?barplot
+source('run.r')
+source('run.r')
+source('run.r')
+?text
+?text
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+?barplot
+source('run.r')
+?ggplot
+?ggplot2
+packages.install('ggplot2')
+install.packages('ggplot2')
+install.packages('ggplot')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+?barplot
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+?par
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+df2
+df2
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+source('run.r')
+mean(.21, 1, .23)
+mean(.21, 1, 123123)
+mean(c(.21, 1, .23))
+mean(c(.21, 1, .23))
+source('run.r')
+source('run.r')
+source('run.r')
