@@ -3,6 +3,42 @@ setwd("/Users/gabranches/GoogleDrive/work/R/srip")
 require(ggplot2)
 require(reshape2)
 
+multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
+  require(grid)
+
+  # Make a list from the ... arguments and plotlist
+  plots <- c(list(...), plotlist)
+
+  numPlots = length(plots)
+
+  # If layout is NULL, then use 'cols' to determine layout
+  if (is.null(layout)) {
+    # Make the panel
+    # ncol: Number of columns of plots
+    # nrow: Number of rows needed, calculated from # of cols
+    layout <- matrix(seq(1, cols * ceiling(numPlots/cols)),
+                    ncol = cols, nrow = ceiling(numPlots/cols))
+  }
+
+ if (numPlots==1) {
+    print(plots[[1]])
+
+  } else {
+    # Set up the page
+    grid.newpage()
+    pushViewport(viewport(layout = grid.layout(nrow(layout), ncol(layout))))
+
+    # Make each plot, in the correct location
+    for (i in 1:numPlots) {
+      # Get the i,j matrix positions of the regions that contain this subplot
+      matchidx <- as.data.frame(which(layout == i, arr.ind = TRUE))
+
+      print(plots[[i]], vp = viewport(layout.pos.row = matchidx$row,
+                                      layout.pos.col = matchidx$col))
+    }
+  }
+}
+
 
 load_data <- function(filename) {
 	df <- read.csv(paste("resources/", filename, sep=""),
@@ -56,14 +92,32 @@ create_gender_chart <- function(outcome, df) {
 create_rank_graph <- function(site_id) {
     
     g <- ggplot(data=rank_data, aes(reorder(x=factor(Hospital_ID), DFC_PERCENT), y=DFC_PERCENT)) +
-        geom_bar(stat="identity", aes(fill = Hospital_ID == site_id )) + coord_flip() +
-        theme(plot.margin=unit(c(1,1,1,1), "cm"), legend.position="none", axis.text.y = element_blank(), axis.ticks.y=element_blank()) +
+        geom_bar(stat="identity", aes(fill = Hospital_ID == site_id )) + 
+        theme(plot.margin=unit(c(.5,.5,-3,0), "cm"), legend.position="none", axis.text.x = element_blank(), axis.ticks.x=element_blank()) +
         scale_y_continuous(labels=percent, limits=c(0,1), breaks=seq(0, 1, 0.1)) +
-        scale_fill_manual(values = c("grey", "red")) + 
-        geom_text(aes(label=DFC_PERCENT*100), size=2, position=position_dodge(width=0.9), hjust=-.3) +
+        scale_fill_manual(values = c("lightblue", "red")) + 
+        geom_text(aes(label=DFC_PERCENT*100), size=2, position=position_dodge(width=0.9), hjust=-.3, angle=90) +
         ggtitle("Defect Free Care Performance") + ylab("") + xlab("");
-    
-    print(g);
+
+    summary_text(g);
+
+}
+
+summary_text <- function(p) {
+    text <- paste("The following is text that'll appear in a plot window.\n",
+         "       As you can see, it's in the plot window\n",
+         "       One might imagine useful informaiton here")
+    g <- ggplot() + 
+        annotate("text", x = 4, y = 10, size=6, label = text) + 
+        theme_bw() +
+        theme(axis.line=element_blank(),axis.text.x=element_blank(),
+          axis.text.y=element_blank(),axis.ticks=element_blank(),
+          axis.title.x=element_blank(),
+          axis.title.y=element_blank(),legend.position="none",
+          panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
+          panel.grid.minor=element_blank(),plot.background=element_blank());
+        
+    multiplot(p, g);
 }
 
 
@@ -106,13 +160,16 @@ create_charts <- function() {
 }
 
 
-
 # Run
 print("Running...");
 ethnicity_data <- load_data('ethnicity.csv');
-rank_data <- load_data('rankings.csv');
+rank_data <- load_data('dfc_ranks.csv');
 gender_data <- load_data('gender.csv');
 
-create_charts();        
+# create_charts();   
+
+create_rank_graph(10140);
 print("Done.");
+
+
 
