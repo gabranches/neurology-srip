@@ -1,0 +1,1762 @@
+Hospital_ID,race,Percent_Hospital,Percent_Region,Percent_State,outcome,Region
+10140,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10140,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10140,Black,96%,97%,98%,Early Antithrombotics (2 days),West Central
+10140,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+10140,White,98%,97%,98%,Early Antithrombotics (2 days),West Central
+10140,Black,98%,98%,98%,VTE Prophylaxis,West Central
+10140,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+10140,White,100%,98%,97%,VTE Prophylaxis,West Central
+10140,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+10140,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+10140,White,98%,99%,99%,Antithrombotics at discharge,West Central
+10140,Black,100%,95%,97%,Anticoagulation for AF at discharge,West Central
+10140,White,92%,97%,97%,Anticoagulation for AF at discharge,West Central
+10140,Black,94%,96%,98%,Statins at Discharge,West Central
+10140,White,100%,97%,97%,Statins at Discharge,West Central
+10140,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+10140,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+10140,Black,90%,93%,94%,Defect Free Care,West Central
+10140,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+10140,White,96%,93%,93%,Defect Free Care,West Central
+10140,Black,50%,28%,46%,Door To Needle Time Within 60 Minutes,West Central
+10140,White,33%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+10140,Black,21%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10140,FL_Hispanic,100%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10140,White,23%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10140,Black,29%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10140,White,57%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10400,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10400,White,75%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10400,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+10400,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+10400,White,98%,97%,98%,Early Antithrombotics (2 days),West Central
+10400,Black,100%,98%,98%,VTE Prophylaxis,West Central
+10400,FL_Hispanic,91%,99%,98%,VTE Prophylaxis,West Central
+10400,White,99%,98%,97%,VTE Prophylaxis,West Central
+10400,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+10400,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+10400,White,100%,99%,99%,Antithrombotics at discharge,West Central
+10400,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,West Central
+10400,White,98%,97%,97%,Anticoagulation for AF at discharge,West Central
+10400,Black,100%,96%,98%,Statins at Discharge,West Central
+10400,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+10400,White,100%,97%,97%,Statins at Discharge,West Central
+10400,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+10400,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+10400,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+10400,Black,100%,93%,94%,Defect Free Care,West Central
+10400,FL_Hispanic,91%,92%,94%,Defect Free Care,West Central
+10400,White,95%,93%,93%,Defect Free Care,West Central
+10400,White,31%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+10400,Black,50%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10400,FL_Hispanic,55%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10400,White,39%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10400,Black,33%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10400,White,22%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10401,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10401,FL_Hispanic,100%,94%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10401,White,83%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10401,Black,90%,97%,98%,Early Antithrombotics (2 days),West Central
+10401,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+10401,White,96%,97%,98%,Early Antithrombotics (2 days),West Central
+10401,Black,96%,98%,98%,VTE Prophylaxis,West Central
+10401,FL_Hispanic,93%,99%,98%,VTE Prophylaxis,West Central
+10401,White,97%,98%,97%,VTE Prophylaxis,West Central
+10401,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+10401,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+10401,White,100%,99%,99%,Antithrombotics at discharge,West Central
+10401,Black,100%,95%,97%,Anticoagulation for AF at discharge,West Central
+10401,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,West Central
+10401,White,96%,97%,97%,Anticoagulation for AF at discharge,West Central
+10401,Black,85%,96%,98%,Statins at Discharge,West Central
+10401,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+10401,White,96%,97%,97%,Statins at Discharge,West Central
+10401,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+10401,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+10401,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+10401,Black,79%,93%,94%,Defect Free Care,West Central
+10401,FL_Hispanic,93%,92%,94%,Defect Free Care,West Central
+10401,White,89%,93%,93%,Defect Free Care,West Central
+10401,Black,67%,28%,46%,Door To Needle Time Within 60 Minutes,West Central
+10401,White,29%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+10401,Black,35%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10401,FL_Hispanic,21%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10401,White,24%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10401,Black,38%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10401,FL_Hispanic,33%,33%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10401,White,32%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10720,Black,100%,100%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,Panhandle
+10720,White,100%,89%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,Panhandle
+10720,Black,98%,99%,98%,Early Antithrombotics (2 days),Panhandle
+10720,FL_Hispanic,100%,100%,97%,Early Antithrombotics (2 days),Panhandle
+10720,White,100%,98%,98%,Early Antithrombotics (2 days),Panhandle
+10720,Black,100%,96%,98%,VTE Prophylaxis,Panhandle
+10720,White,100%,95%,97%,VTE Prophylaxis,Panhandle
+10720,Black,100%,98%,99%,Antithrombotics at discharge,Panhandle
+10720,FL_Hispanic,100%,95%,99%,Antithrombotics at discharge,Panhandle
+10720,White,100%,99%,99%,Antithrombotics at discharge,Panhandle
+10720,Black,100%,100%,97%,Anticoagulation for AF at discharge,Panhandle
+10720,White,100%,98%,97%,Anticoagulation for AF at discharge,Panhandle
+10720,Black,100%,95%,98%,Statins at Discharge,Panhandle
+10720,FL_Hispanic,100%,94%,98%,Statins at Discharge,Panhandle
+10720,White,99%,95%,97%,Statins at Discharge,Panhandle
+10720,Black,100%,96%,97%,Smoking Cessation Counseling,Panhandle
+10720,White,100%,99%,98%,Smoking Cessation Counseling,Panhandle
+10720,Black,98%,91%,94%,Defect Free Care,Panhandle
+10720,FL_Hispanic,100%,96%,94%,Defect Free Care,Panhandle
+10720,White,100%,91%,93%,Defect Free Care,Panhandle
+10720,White,15%,49%,52%,Door To Needle Time Within 60 Minutes,Panhandle
+10720,Black,49%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),Panhandle
+10720,White,57%,40%,36%,Door to CT Time Within 25 Minutes (All Strokes),Panhandle
+10720,Black,33%,45%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,Panhandle
+10720,White,25%,42%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,Panhandle
+13705,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13705,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13705,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+13705,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+13705,White,97%,98%,98%,Early Antithrombotics (2 days),South
+13705,Black,100%,98%,98%,VTE Prophylaxis,South
+13705,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+13705,White,98%,97%,97%,VTE Prophylaxis,South
+13705,Black,100%,99%,99%,Antithrombotics at discharge,South
+13705,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13705,White,100%,99%,99%,Antithrombotics at discharge,South
+13705,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+13705,White,83%,97%,97%,Anticoagulation for AF at discharge,South
+13705,Black,100%,99%,98%,Statins at Discharge,South
+13705,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+13705,White,100%,98%,97%,Statins at Discharge,South
+13705,Black,100%,97%,97%,Smoking Cessation Counseling,South
+13705,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+13705,White,100%,99%,98%,Smoking Cessation Counseling,South
+13705,Black,100%,94%,94%,Defect Free Care,South
+13705,FL_Hispanic,100%,93%,94%,Defect Free Care,South
+13705,White,95%,94%,93%,Defect Free Care,South
+13705,Black,25%,54%,46%,Door To Needle Time Within 60 Minutes,South
+13705,White,50%,66%,52%,Door To Needle Time Within 60 Minutes,South
+13705,Black,62%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13705,FL_Hispanic,50%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13705,White,47%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13705,Black,67%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13705,White,60%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13710,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13710,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13710,Black,71%,97%,98%,Early Antithrombotics (2 days),South
+13710,FL_Hispanic,92%,97%,97%,Early Antithrombotics (2 days),South
+13710,White,89%,98%,98%,Early Antithrombotics (2 days),South
+13710,Black,100%,98%,98%,VTE Prophylaxis,South
+13710,FL_Hispanic,97%,98%,98%,VTE Prophylaxis,South
+13710,White,89%,97%,97%,VTE Prophylaxis,South
+13710,Black,90%,99%,99%,Antithrombotics at discharge,South
+13710,FL_Hispanic,99%,99%,99%,Antithrombotics at discharge,South
+13710,White,100%,99%,99%,Antithrombotics at discharge,South
+13710,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+13710,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+13710,Black,100%,99%,98%,Statins at Discharge,South
+13710,FL_Hispanic,98%,98%,98%,Statins at Discharge,South
+13710,White,100%,98%,97%,Statins at Discharge,South
+13710,Black,80%,97%,97%,Smoking Cessation Counseling,South
+13710,FL_Hispanic,90%,95%,97%,Smoking Cessation Counseling,South
+13710,White,100%,99%,98%,Smoking Cessation Counseling,South
+13710,Black,60%,94%,94%,Defect Free Care,South
+13710,FL_Hispanic,88%,93%,94%,Defect Free Care,South
+13710,White,89%,94%,93%,Defect Free Care,South
+13710,Black,50%,54%,46%,Door To Needle Time Within 60 Minutes,South
+13710,FL_Hispanic,17%,76%,68%,Door To Needle Time Within 60 Minutes,South
+13710,Black,44%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13710,FL_Hispanic,46%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13710,White,25%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13710,Black,67%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13710,FL_Hispanic,30%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13732,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13732,White,93%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13732,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+13732,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+13732,White,99%,98%,98%,Early Antithrombotics (2 days),South
+13732,Black,100%,98%,98%,VTE Prophylaxis,South
+13732,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+13732,White,99%,97%,97%,VTE Prophylaxis,South
+13732,Black,98%,99%,99%,Antithrombotics at discharge,South
+13732,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13732,White,100%,99%,99%,Antithrombotics at discharge,South
+13732,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+13732,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+13732,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+13732,Black,99%,99%,98%,Statins at Discharge,South
+13732,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+13732,White,100%,98%,97%,Statins at Discharge,South
+13732,Black,100%,97%,97%,Smoking Cessation Counseling,South
+13732,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+13732,White,100%,99%,98%,Smoking Cessation Counseling,South
+13732,Black,97%,94%,94%,Defect Free Care,South
+13732,FL_Hispanic,100%,93%,94%,Defect Free Care,South
+13732,White,98%,94%,93%,Defect Free Care,South
+13732,Black,61%,54%,46%,Door To Needle Time Within 60 Minutes,South
+13732,White,69%,66%,52%,Door To Needle Time Within 60 Minutes,South
+13732,Black,57%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13732,FL_Hispanic,71%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13732,White,79%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13732,Black,64%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13732,White,38%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13742,White,91%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13742,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+13742,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+13742,White,97%,98%,98%,Early Antithrombotics (2 days),South
+13742,Black,100%,98%,98%,VTE Prophylaxis,South
+13742,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+13742,White,99%,97%,97%,VTE Prophylaxis,South
+13742,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13742,White,100%,99%,99%,Antithrombotics at discharge,South
+13742,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+13742,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+13742,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+13742,White,100%,98%,97%,Statins at Discharge,South
+13742,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+13742,White,100%,99%,98%,Smoking Cessation Counseling,South
+13742,Black,100%,94%,94%,Defect Free Care,South
+13742,FL_Hispanic,100%,93%,94%,Defect Free Care,South
+13742,White,95%,94%,93%,Defect Free Care,South
+13742,White,70%,66%,52%,Door To Needle Time Within 60 Minutes,South
+13742,FL_Hispanic,83%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13742,White,59%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13742,White,33%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13779,Black,75%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13779,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13779,Black,99%,97%,98%,Early Antithrombotics (2 days),South
+13779,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+13779,White,100%,98%,98%,Early Antithrombotics (2 days),South
+13779,Black,99%,98%,98%,VTE Prophylaxis,South
+13779,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+13779,White,100%,97%,97%,VTE Prophylaxis,South
+13779,Black,100%,99%,99%,Antithrombotics at discharge,South
+13779,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13779,White,100%,99%,99%,Antithrombotics at discharge,South
+13779,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+13779,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+13779,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+13779,Black,100%,99%,98%,Statins at Discharge,South
+13779,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+13779,White,100%,98%,97%,Statins at Discharge,South
+13779,Black,92%,97%,97%,Smoking Cessation Counseling,South
+13779,FL_Hispanic,75%,95%,97%,Smoking Cessation Counseling,South
+13779,White,100%,99%,98%,Smoking Cessation Counseling,South
+13779,Black,96%,94%,94%,Defect Free Care,South
+13779,FL_Hispanic,95%,93%,94%,Defect Free Care,South
+13779,White,100%,94%,93%,Defect Free Care,South
+13779,FL_Hispanic,100%,76%,68%,Door To Needle Time Within 60 Minutes,South
+13779,Black,33%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13779,FL_Hispanic,39%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13779,White,38%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13779,Black,33%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13779,FL_Hispanic,50%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13781,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13781,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13781,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+13781,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+13781,White,99%,98%,98%,Early Antithrombotics (2 days),South
+13781,Black,100%,98%,98%,VTE Prophylaxis,South
+13781,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+13781,White,100%,97%,97%,VTE Prophylaxis,South
+13781,Black,100%,99%,99%,Antithrombotics at discharge,South
+13781,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13781,White,100%,99%,99%,Antithrombotics at discharge,South
+13781,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+13781,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+13781,Black,100%,99%,98%,Statins at Discharge,South
+13781,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+13781,White,99%,98%,97%,Statins at Discharge,South
+13781,Black,100%,97%,97%,Smoking Cessation Counseling,South
+13781,White,100%,99%,98%,Smoking Cessation Counseling,South
+13781,Black,100%,94%,94%,Defect Free Care,South
+13781,FL_Hispanic,100%,93%,94%,Defect Free Care,South
+13781,White,99%,94%,93%,Defect Free Care,South
+13781,Black,50%,54%,46%,Door To Needle Time Within 60 Minutes,South
+13781,White,82%,66%,52%,Door To Needle Time Within 60 Minutes,South
+13781,Black,55%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13781,FL_Hispanic,100%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13781,White,70%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13781,Black,100%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13781,White,49%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13782,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13782,FL_Hispanic,98%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13782,Black,94%,97%,98%,Early Antithrombotics (2 days),South
+13782,FL_Hispanic,98%,97%,97%,Early Antithrombotics (2 days),South
+13782,White,100%,98%,98%,Early Antithrombotics (2 days),South
+13782,Black,88%,98%,98%,VTE Prophylaxis,South
+13782,FL_Hispanic,97%,98%,98%,VTE Prophylaxis,South
+13782,White,100%,97%,97%,VTE Prophylaxis,South
+13782,Black,100%,99%,99%,Antithrombotics at discharge,South
+13782,FL_Hispanic,99%,99%,99%,Antithrombotics at discharge,South
+13782,White,100%,99%,99%,Antithrombotics at discharge,South
+13782,Black,67%,98%,97%,Anticoagulation for AF at discharge,South
+13782,FL_Hispanic,95%,97%,98%,Anticoagulation for AF at discharge,South
+13782,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+13782,Black,100%,99%,98%,Statins at Discharge,South
+13782,FL_Hispanic,99%,98%,98%,Statins at Discharge,South
+13782,White,100%,98%,97%,Statins at Discharge,South
+13782,Black,100%,97%,97%,Smoking Cessation Counseling,South
+13782,FL_Hispanic,93%,95%,97%,Smoking Cessation Counseling,South
+13782,White,100%,99%,98%,Smoking Cessation Counseling,South
+13782,Black,84%,94%,94%,Defect Free Care,South
+13782,FL_Hispanic,93%,93%,94%,Defect Free Care,South
+13782,White,100%,94%,93%,Defect Free Care,South
+13782,Black,83%,54%,46%,Door To Needle Time Within 60 Minutes,South
+13782,FL_Hispanic,90%,76%,68%,Door To Needle Time Within 60 Minutes,South
+13782,White,100%,66%,52%,Door To Needle Time Within 60 Minutes,South
+13782,Black,54%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13782,FL_Hispanic,59%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13782,White,64%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13782,Black,60%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13782,FL_Hispanic,57%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13782,White,20%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13811,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13811,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13811,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13811,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+13811,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+13811,White,98%,98%,98%,Early Antithrombotics (2 days),South
+13811,Black,100%,98%,98%,VTE Prophylaxis,South
+13811,FL_Hispanic,95%,98%,98%,VTE Prophylaxis,South
+13811,White,97%,97%,97%,VTE Prophylaxis,South
+13811,Black,100%,99%,99%,Antithrombotics at discharge,South
+13811,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13811,White,100%,99%,99%,Antithrombotics at discharge,South
+13811,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+13811,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+13811,Black,100%,99%,98%,Statins at Discharge,South
+13811,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+13811,White,100%,98%,97%,Statins at Discharge,South
+13811,Black,100%,97%,97%,Smoking Cessation Counseling,South
+13811,White,100%,99%,98%,Smoking Cessation Counseling,South
+13811,Black,100%,94%,94%,Defect Free Care,South
+13811,FL_Hispanic,95%,93%,94%,Defect Free Care,South
+13811,White,96%,94%,93%,Defect Free Care,South
+13811,Black,100%,54%,46%,Door To Needle Time Within 60 Minutes,South
+13811,FL_Hispanic,100%,76%,68%,Door To Needle Time Within 60 Minutes,South
+13811,White,100%,66%,52%,Door To Needle Time Within 60 Minutes,South
+13811,Black,33%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13811,FL_Hispanic,36%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13811,White,36%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13811,Black,67%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13811,FL_Hispanic,67%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13811,White,38%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13815,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+13815,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+13815,White,100%,98%,98%,Early Antithrombotics (2 days),South
+13815,Black,100%,98%,98%,VTE Prophylaxis,South
+13815,FL_Hispanic,96%,98%,98%,VTE Prophylaxis,South
+13815,White,100%,97%,97%,VTE Prophylaxis,South
+13815,Black,100%,99%,99%,Antithrombotics at discharge,South
+13815,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13815,White,100%,99%,99%,Antithrombotics at discharge,South
+13815,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+13815,Black,100%,99%,98%,Statins at Discharge,South
+13815,FL_Hispanic,94%,98%,98%,Statins at Discharge,South
+13815,White,100%,98%,97%,Statins at Discharge,South
+13815,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+13815,Black,100%,94%,94%,Defect Free Care,South
+13815,FL_Hispanic,93%,93%,94%,Defect Free Care,South
+13815,White,100%,94%,93%,Defect Free Care,South
+13815,Black,100%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13815,FL_Hispanic,13%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13819,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13819,White,98%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13819,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+13819,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+13819,White,100%,98%,98%,Early Antithrombotics (2 days),South
+13819,Black,100%,98%,98%,VTE Prophylaxis,South
+13819,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+13819,White,100%,97%,97%,VTE Prophylaxis,South
+13819,Black,100%,99%,99%,Antithrombotics at discharge,South
+13819,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13819,White,100%,99%,99%,Antithrombotics at discharge,South
+13819,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+13819,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+13819,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+13819,Black,100%,99%,98%,Statins at Discharge,South
+13819,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+13819,White,100%,98%,97%,Statins at Discharge,South
+13819,Black,100%,97%,97%,Smoking Cessation Counseling,South
+13819,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+13819,White,100%,99%,98%,Smoking Cessation Counseling,South
+13819,Black,100%,94%,94%,Defect Free Care,South
+13819,FL_Hispanic,100%,93%,94%,Defect Free Care,South
+13819,White,99%,94%,93%,Defect Free Care,South
+13819,Black,100%,54%,46%,Door To Needle Time Within 60 Minutes,South
+13819,White,80%,66%,52%,Door To Needle Time Within 60 Minutes,South
+13819,Black,67%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13819,FL_Hispanic,100%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13819,White,74%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13819,Black,50%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13819,White,47%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13862,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13862,Black,93%,97%,98%,Early Antithrombotics (2 days),South
+13862,FL_Hispanic,93%,97%,97%,Early Antithrombotics (2 days),South
+13862,White,89%,98%,98%,Early Antithrombotics (2 days),South
+13862,Black,97%,98%,98%,VTE Prophylaxis,South
+13862,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+13862,White,100%,97%,97%,VTE Prophylaxis,South
+13862,Black,97%,99%,99%,Antithrombotics at discharge,South
+13862,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+13862,White,100%,99%,99%,Antithrombotics at discharge,South
+13862,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+13862,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+13862,Black,96%,99%,98%,Statins at Discharge,South
+13862,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+13862,White,100%,98%,97%,Statins at Discharge,South
+13862,Black,93%,97%,97%,Smoking Cessation Counseling,South
+13862,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+13862,White,100%,99%,98%,Smoking Cessation Counseling,South
+13862,Black,88%,94%,94%,Defect Free Care,South
+13862,FL_Hispanic,93%,93%,94%,Defect Free Care,South
+13862,White,89%,94%,93%,Defect Free Care,South
+13862,Black,20%,54%,46%,Door To Needle Time Within 60 Minutes,South
+13862,Black,17%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+13862,FL_Hispanic,15%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13862,White,27%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+13862,Black,22%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13862,White,33%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+14462,FL_Hispanic,100%,94%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14462,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14462,Black,94%,97%,98%,Early Antithrombotics (2 days),West Central
+14462,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+14462,White,96%,97%,98%,Early Antithrombotics (2 days),West Central
+14462,Black,100%,98%,98%,VTE Prophylaxis,West Central
+14462,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+14462,White,97%,98%,97%,VTE Prophylaxis,West Central
+14462,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+14462,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+14462,White,98%,99%,99%,Antithrombotics at discharge,West Central
+14462,Black,50%,95%,97%,Anticoagulation for AF at discharge,West Central
+14462,White,96%,97%,97%,Anticoagulation for AF at discharge,West Central
+14462,Black,98%,96%,98%,Statins at Discharge,West Central
+14462,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+14462,White,97%,97%,97%,Statins at Discharge,West Central
+14462,Black,86%,99%,97%,Smoking Cessation Counseling,West Central
+14462,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+14462,White,92%,99%,98%,Smoking Cessation Counseling,West Central
+14462,Black,88%,93%,94%,Defect Free Care,West Central
+14462,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+14462,White,90%,93%,93%,Defect Free Care,West Central
+14462,White,29%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+14462,Black,4%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14462,White,16%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14462,Black,33%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14462,FL_Hispanic,33%,33%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14462,White,17%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14562,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14562,White,86%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14562,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+14562,White,98%,97%,98%,Early Antithrombotics (2 days),West Central
+14562,Black,100%,98%,98%,VTE Prophylaxis,West Central
+14562,White,98%,98%,97%,VTE Prophylaxis,West Central
+14562,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+14562,White,100%,99%,99%,Antithrombotics at discharge,West Central
+14562,White,92%,97%,97%,Anticoagulation for AF at discharge,West Central
+14562,Black,100%,96%,98%,Statins at Discharge,West Central
+14562,White,100%,97%,97%,Statins at Discharge,West Central
+14562,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+14562,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+14562,Black,100%,93%,94%,Defect Free Care,West Central
+14562,White,94%,93%,93%,Defect Free Care,West Central
+14562,Black,100%,28%,46%,Door To Needle Time Within 60 Minutes,West Central
+14562,White,71%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+14562,Black,14%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14562,White,29%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14562,Black,100%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14562,White,29%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14842,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14842,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+14842,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+14842,White,99%,97%,98%,Early Antithrombotics (2 days),West Central
+14842,Black,100%,98%,98%,VTE Prophylaxis,West Central
+14842,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+14842,White,100%,98%,97%,VTE Prophylaxis,West Central
+14842,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+14842,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+14842,White,100%,99%,99%,Antithrombotics at discharge,West Central
+14842,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+14842,Black,100%,96%,98%,Statins at Discharge,West Central
+14842,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+14842,White,100%,97%,97%,Statins at Discharge,West Central
+14842,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+14842,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+14842,Black,100%,93%,94%,Defect Free Care,West Central
+14842,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+14842,White,99%,93%,93%,Defect Free Care,West Central
+14842,White,32%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+14842,White,20%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14842,White,27%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14942,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14942,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14942,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+14942,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+14942,White,99%,97%,98%,Early Antithrombotics (2 days),West Central
+14942,Black,99%,98%,98%,VTE Prophylaxis,West Central
+14942,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+14942,White,99%,98%,97%,VTE Prophylaxis,West Central
+14942,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+14942,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+14942,White,100%,99%,99%,Antithrombotics at discharge,West Central
+14942,Black,100%,95%,97%,Anticoagulation for AF at discharge,West Central
+14942,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,West Central
+14942,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+14942,Black,97%,96%,98%,Statins at Discharge,West Central
+14942,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+14942,White,97%,97%,97%,Statins at Discharge,West Central
+14942,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+14942,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+14942,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+14942,Black,98%,93%,94%,Defect Free Care,West Central
+14942,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+14942,White,97%,93%,93%,Defect Free Care,West Central
+14942,Black,29%,28%,46%,Door To Needle Time Within 60 Minutes,West Central
+14942,White,59%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+14942,Black,36%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14942,FL_Hispanic,32%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14942,White,57%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14942,Black,26%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14942,FL_Hispanic,13%,33%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14942,White,28%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+15144,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+15144,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+15144,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+15144,White,96%,97%,98%,Early Antithrombotics (2 days),West Central
+15144,Black,100%,98%,98%,VTE Prophylaxis,West Central
+15144,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+15144,White,99%,98%,97%,VTE Prophylaxis,West Central
+15144,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+15144,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+15144,White,100%,99%,99%,Antithrombotics at discharge,West Central
+15144,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,West Central
+15144,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+15144,Black,100%,96%,98%,Statins at Discharge,West Central
+15144,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+15144,White,97%,97%,97%,Statins at Discharge,West Central
+15144,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+15144,White,97%,99%,98%,Smoking Cessation Counseling,West Central
+15144,Black,100%,93%,94%,Defect Free Care,West Central
+15144,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+15144,White,93%,93%,93%,Defect Free Care,West Central
+15144,White,25%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+15144,FL_Hispanic,40%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+15144,White,29%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+15144,White,11%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+15322,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+15322,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+15322,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+15322,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+15322,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+15322,White,99%,98%,98%,Early Antithrombotics (2 days),South
+15322,Black,100%,98%,98%,VTE Prophylaxis,South
+15322,FL_Hispanic,82%,98%,98%,VTE Prophylaxis,South
+15322,White,99%,97%,97%,VTE Prophylaxis,South
+15322,Black,100%,99%,99%,Antithrombotics at discharge,South
+15322,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+15322,White,99%,99%,99%,Antithrombotics at discharge,South
+15322,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+15322,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+15322,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+15322,Black,100%,99%,98%,Statins at Discharge,South
+15322,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+15322,White,99%,98%,97%,Statins at Discharge,South
+15322,Black,100%,97%,97%,Smoking Cessation Counseling,South
+15322,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+15322,White,100%,99%,98%,Smoking Cessation Counseling,South
+15322,Black,100%,94%,94%,Defect Free Care,South
+15322,FL_Hispanic,82%,93%,94%,Defect Free Care,South
+15322,White,97%,94%,93%,Defect Free Care,South
+15322,Black,100%,54%,46%,Door To Needle Time Within 60 Minutes,South
+15322,FL_Hispanic,100%,76%,68%,Door To Needle Time Within 60 Minutes,South
+15322,White,77%,66%,52%,Door To Needle Time Within 60 Minutes,South
+15322,Black,44%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+15322,FL_Hispanic,67%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+15322,White,56%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+15322,Black,75%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+15322,FL_Hispanic,33%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+15322,White,59%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+15563,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,
+15563,FL_Hispanic,100%,94%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,
+15563,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+15563,Black,100%,97%,98%,Early Antithrombotics (2 days),
+15563,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),
+15563,White,94%,97%,98%,Early Antithrombotics (2 days),
+15563,Black,98%,98%,98%,VTE Prophylaxis,
+15563,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,
+15563,White,98%,98%,97%,VTE Prophylaxis,
+15563,Black,100%,99%,99%,Antithrombotics at discharge,
+15563,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,
+15563,White,94%,99%,99%,Antithrombotics at discharge,
+15563,Black,80%,95%,97%,Anticoagulation for AF at discharge,
+15563,White,91%,97%,97%,Anticoagulation for AF at discharge,
+15563,Black,97%,96%,98%,Statins at Discharge,
+15563,FL_Hispanic,100%,96%,98%,Statins at Discharge,
+15563,White,94%,97%,97%,Statins at Discharge,
+15563,Black,100%,99%,97%,Smoking Cessation Counseling,
+15563,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,
+15563,White,83%,99%,98%,Smoking Cessation Counseling,
+15563,Black,95%,93%,94%,Defect Free Care,
+15563,FL_Hispanic,100%,92%,94%,Defect Free Care,
+15563,White,84%,93%,93%,Defect Free Care,
+15563,Black,25%,28%,46%,Door To Needle Time Within 60 Minutes,
+15563,White,38%,39%,52%,Door To Needle Time Within 60 Minutes,
+15563,Black,31%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),
+15563,FL_Hispanic,17%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+15563,White,19%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+15563,Black,33%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+15563,FL_Hispanic,100%,33%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+15563,White,22%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+15823,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+15823,White,96%,97%,98%,Early Antithrombotics (2 days),West Central
+15823,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+15823,White,92%,98%,97%,VTE Prophylaxis,West Central
+15823,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+15823,White,100%,99%,99%,Antithrombotics at discharge,West Central
+15823,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+15823,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+15823,White,100%,97%,97%,Statins at Discharge,West Central
+15823,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+15823,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+15823,White,92%,93%,93%,Defect Free Care,West Central
+15823,White,100%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+15823,White,33%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+15823,White,14%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+16462,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+16462,FL_Hispanic,96%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+16462,White,93%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+16462,Black,99%,97%,98%,Early Antithrombotics (2 days),South
+16462,FL_Hispanic,98%,97%,97%,Early Antithrombotics (2 days),South
+16462,White,99%,98%,98%,Early Antithrombotics (2 days),South
+16462,Black,100%,98%,98%,VTE Prophylaxis,South
+16462,FL_Hispanic,99%,98%,98%,VTE Prophylaxis,South
+16462,White,99%,97%,97%,VTE Prophylaxis,South
+16462,Black,99%,99%,99%,Antithrombotics at discharge,South
+16462,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+16462,White,100%,99%,99%,Antithrombotics at discharge,South
+16462,Black,94%,98%,97%,Anticoagulation for AF at discharge,South
+16462,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+16462,White,98%,97%,97%,Anticoagulation for AF at discharge,South
+16462,Black,100%,99%,98%,Statins at Discharge,South
+16462,FL_Hispanic,99%,98%,98%,Statins at Discharge,South
+16462,White,98%,98%,97%,Statins at Discharge,South
+16462,Black,100%,97%,97%,Smoking Cessation Counseling,South
+16462,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+16462,White,100%,99%,98%,Smoking Cessation Counseling,South
+16462,Black,96%,94%,94%,Defect Free Care,South
+16462,FL_Hispanic,96%,93%,94%,Defect Free Care,South
+16462,White,96%,94%,93%,Defect Free Care,South
+16462,Black,100%,54%,46%,Door To Needle Time Within 60 Minutes,South
+16462,FL_Hispanic,69%,76%,68%,Door To Needle Time Within 60 Minutes,South
+16462,White,71%,66%,52%,Door To Needle Time Within 60 Minutes,South
+16462,Black,30%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+16462,FL_Hispanic,35%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+16462,White,34%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+16462,Black,15%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+16462,FL_Hispanic,34%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+16462,White,29%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+17962,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+17962,FL_Hispanic,92%,94%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+17962,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+17962,Black,96%,97%,98%,Early Antithrombotics (2 days),West Central
+17962,FL_Hispanic,94%,97%,97%,Early Antithrombotics (2 days),West Central
+17962,White,97%,97%,98%,Early Antithrombotics (2 days),West Central
+17962,Black,99%,98%,98%,VTE Prophylaxis,West Central
+17962,FL_Hispanic,99%,99%,98%,VTE Prophylaxis,West Central
+17962,White,99%,98%,97%,VTE Prophylaxis,West Central
+17962,Black,99%,99%,99%,Antithrombotics at discharge,West Central
+17962,FL_Hispanic,98%,98%,99%,Antithrombotics at discharge,West Central
+17962,White,100%,99%,99%,Antithrombotics at discharge,West Central
+17962,Black,100%,95%,97%,Anticoagulation for AF at discharge,West Central
+17962,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,West Central
+17962,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+17962,Black,96%,96%,98%,Statins at Discharge,West Central
+17962,FL_Hispanic,90%,96%,98%,Statins at Discharge,West Central
+17962,White,97%,97%,97%,Statins at Discharge,West Central
+17962,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+17962,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+17962,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+17962,Black,95%,93%,94%,Defect Free Care,West Central
+17962,FL_Hispanic,88%,92%,94%,Defect Free Care,West Central
+17962,White,94%,93%,93%,Defect Free Care,West Central
+17962,Black,12%,28%,46%,Door To Needle Time Within 60 Minutes,West Central
+17962,FL_Hispanic,31%,35%,68%,Door To Needle Time Within 60 Minutes,West Central
+17962,White,17%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+17962,Black,10%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+17962,FL_Hispanic,12%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+17962,White,13%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+17962,Black,38%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+17962,FL_Hispanic,41%,33%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+17962,White,34%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+18185,Black,100%,100%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,Panhandle
+18185,White,86%,89%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,Panhandle
+18185,Black,100%,99%,98%,Early Antithrombotics (2 days),Panhandle
+18185,FL_Hispanic,100%,100%,97%,Early Antithrombotics (2 days),Panhandle
+18185,White,98%,98%,98%,Early Antithrombotics (2 days),Panhandle
+18185,Black,90%,96%,98%,VTE Prophylaxis,Panhandle
+18185,FL_Hispanic,100%,100%,98%,VTE Prophylaxis,Panhandle
+18185,White,93%,95%,97%,VTE Prophylaxis,Panhandle
+18185,Black,100%,98%,99%,Antithrombotics at discharge,Panhandle
+18185,FL_Hispanic,100%,95%,99%,Antithrombotics at discharge,Panhandle
+18185,White,99%,99%,99%,Antithrombotics at discharge,Panhandle
+18185,Black,100%,100%,97%,Anticoagulation for AF at discharge,Panhandle
+18185,White,100%,98%,97%,Anticoagulation for AF at discharge,Panhandle
+18185,Black,97%,95%,98%,Statins at Discharge,Panhandle
+18185,White,96%,95%,97%,Statins at Discharge,Panhandle
+18185,Black,100%,96%,97%,Smoking Cessation Counseling,Panhandle
+18185,White,100%,99%,98%,Smoking Cessation Counseling,Panhandle
+18185,Black,88%,91%,94%,Defect Free Care,Panhandle
+18185,FL_Hispanic,100%,96%,94%,Defect Free Care,Panhandle
+18185,White,88%,91%,93%,Defect Free Care,Panhandle
+18185,White,32%,49%,52%,Door To Needle Time Within 60 Minutes,Panhandle
+18185,Black,40%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),Panhandle
+18185,White,47%,40%,36%,Door to CT Time Within 25 Minutes (All Strokes),Panhandle
+18185,Black,27%,45%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,Panhandle
+18185,White,50%,42%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,Panhandle
+20889,White,88%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+20889,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+20889,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+20889,White,96%,97%,98%,Early Antithrombotics (2 days),West Central
+20889,Black,100%,98%,98%,VTE Prophylaxis,West Central
+20889,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+20889,White,99%,98%,97%,VTE Prophylaxis,West Central
+20889,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+20889,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+20889,White,95%,99%,99%,Antithrombotics at discharge,West Central
+20889,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+20889,Black,100%,96%,98%,Statins at Discharge,West Central
+20889,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+20889,White,100%,97%,97%,Statins at Discharge,West Central
+20889,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+20889,White,93%,99%,98%,Smoking Cessation Counseling,West Central
+20889,Black,100%,93%,94%,Defect Free Care,West Central
+20889,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+20889,White,89%,93%,93%,Defect Free Care,West Central
+20889,White,33%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+20889,Black,50%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+20889,White,59%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+20889,White,30%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+20908,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+20908,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+20908,White,92%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+20908,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+20908,FL_Hispanic,88%,97%,97%,Early Antithrombotics (2 days),South
+20908,White,100%,98%,98%,Early Antithrombotics (2 days),South
+20908,Black,91%,98%,98%,VTE Prophylaxis,South
+20908,FL_Hispanic,92%,98%,98%,VTE Prophylaxis,South
+20908,White,96%,97%,97%,VTE Prophylaxis,South
+20908,Black,100%,99%,99%,Antithrombotics at discharge,South
+20908,FL_Hispanic,92%,99%,99%,Antithrombotics at discharge,South
+20908,White,98%,99%,99%,Antithrombotics at discharge,South
+20908,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+20908,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+20908,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+20908,Black,97%,99%,98%,Statins at Discharge,South
+20908,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+20908,White,97%,98%,97%,Statins at Discharge,South
+20908,Black,100%,97%,97%,Smoking Cessation Counseling,South
+20908,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+20908,White,100%,99%,98%,Smoking Cessation Counseling,South
+20908,Black,89%,94%,94%,Defect Free Care,South
+20908,FL_Hispanic,85%,93%,94%,Defect Free Care,South
+20908,White,92%,94%,93%,Defect Free Care,South
+20908,Black,33%,54%,46%,Door To Needle Time Within 60 Minutes,South
+20908,White,43%,66%,52%,Door To Needle Time Within 60 Minutes,South
+20908,Black,29%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+20908,FL_Hispanic,36%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+20908,White,44%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+20908,Black,21%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+20908,FL_Hispanic,17%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+20908,White,35%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+22282,Black,92%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+22282,FL_Hispanic,94%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+22282,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+22282,Black,88%,97%,98%,Early Antithrombotics (2 days),South
+22282,FL_Hispanic,89%,97%,97%,Early Antithrombotics (2 days),South
+22282,White,90%,98%,98%,Early Antithrombotics (2 days),South
+22282,Black,97%,98%,98%,VTE Prophylaxis,South
+22282,FL_Hispanic,99%,98%,98%,VTE Prophylaxis,South
+22282,White,98%,97%,97%,VTE Prophylaxis,South
+22282,Black,100%,99%,99%,Antithrombotics at discharge,South
+22282,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+22282,White,100%,99%,99%,Antithrombotics at discharge,South
+22282,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+22282,FL_Hispanic,89%,97%,98%,Anticoagulation for AF at discharge,South
+22282,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+22282,Black,100%,99%,98%,Statins at Discharge,South
+22282,FL_Hispanic,98%,98%,98%,Statins at Discharge,South
+22282,White,96%,98%,97%,Statins at Discharge,South
+22282,Black,86%,97%,97%,Smoking Cessation Counseling,South
+22282,FL_Hispanic,88%,95%,97%,Smoking Cessation Counseling,South
+22282,White,88%,99%,98%,Smoking Cessation Counseling,South
+22282,Black,86%,94%,94%,Defect Free Care,South
+22282,FL_Hispanic,87%,93%,94%,Defect Free Care,South
+22282,White,89%,94%,93%,Defect Free Care,South
+22282,Black,47%,54%,46%,Door To Needle Time Within 60 Minutes,South
+22282,FL_Hispanic,48%,76%,68%,Door To Needle Time Within 60 Minutes,South
+22282,White,33%,66%,52%,Door To Needle Time Within 60 Minutes,South
+22282,Black,26%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+22282,FL_Hispanic,32%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+22282,White,38%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+22282,Black,65%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+22282,FL_Hispanic,84%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+22282,White,100%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+22865,Black,100%,90%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+22865,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+22865,White,93%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+22865,Black,97%,98%,98%,Early Antithrombotics (2 days),East Central
+22865,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+22865,White,99%,98%,98%,Early Antithrombotics (2 days),East Central
+22865,Black,100%,99%,98%,VTE Prophylaxis,East Central
+22865,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+22865,White,96%,98%,97%,VTE Prophylaxis,East Central
+22865,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+22865,FL_Hispanic,95%,99%,99%,Antithrombotics at discharge,East Central
+22865,White,98%,100%,99%,Antithrombotics at discharge,East Central
+22865,Black,100%,94%,97%,Anticoagulation for AF at discharge,East Central
+22865,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,East Central
+22865,White,96%,97%,97%,Anticoagulation for AF at discharge,East Central
+22865,Black,100%,99%,98%,Statins at Discharge,East Central
+22865,FL_Hispanic,86%,98%,98%,Statins at Discharge,East Central
+22865,White,92%,97%,97%,Statins at Discharge,East Central
+22865,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+22865,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,East Central
+22865,White,95%,95%,98%,Smoking Cessation Counseling,East Central
+22865,Black,97%,94%,94%,Defect Free Care,East Central
+22865,FL_Hispanic,92%,96%,94%,Defect Free Care,East Central
+22865,White,90%,94%,93%,Defect Free Care,East Central
+22865,Black,33%,47%,46%,Door To Needle Time Within 60 Minutes,East Central
+22865,FL_Hispanic,50%,43%,68%,Door To Needle Time Within 60 Minutes,East Central
+22865,White,38%,44%,52%,Door To Needle Time Within 60 Minutes,East Central
+22865,Black,36%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+22865,FL_Hispanic,29%,20%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+22865,White,40%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+22865,Black,50%,37%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+22865,FL_Hispanic,50%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+22865,White,32%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+25382,Black,86%,90%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+25382,White,90%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+25382,Black,100%,98%,98%,Early Antithrombotics (2 days),East Central
+25382,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+25382,White,96%,98%,98%,Early Antithrombotics (2 days),East Central
+25382,Black,96%,99%,98%,VTE Prophylaxis,East Central
+25382,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+25382,White,94%,98%,97%,VTE Prophylaxis,East Central
+25382,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+25382,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,East Central
+25382,White,100%,100%,99%,Antithrombotics at discharge,East Central
+25382,White,94%,97%,97%,Anticoagulation for AF at discharge,East Central
+25382,Black,100%,99%,98%,Statins at Discharge,East Central
+25382,FL_Hispanic,100%,98%,98%,Statins at Discharge,East Central
+25382,White,94%,97%,97%,Statins at Discharge,East Central
+25382,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+25382,White,97%,95%,98%,Smoking Cessation Counseling,East Central
+25382,Black,93%,94%,94%,Defect Free Care,East Central
+25382,FL_Hispanic,100%,96%,94%,Defect Free Care,East Central
+25382,White,87%,94%,93%,Defect Free Care,East Central
+25382,Black,43%,47%,46%,Door To Needle Time Within 60 Minutes,East Central
+25382,White,36%,44%,52%,Door To Needle Time Within 60 Minutes,East Central
+25382,Black,34%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+25382,White,30%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+25382,Black,41%,37%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+25382,White,35%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+27785,Black,100%,90%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+27785,White,100%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+27785,Black,92%,98%,98%,Early Antithrombotics (2 days),East Central
+27785,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+27785,White,100%,98%,98%,Early Antithrombotics (2 days),East Central
+27785,Black,93%,99%,98%,VTE Prophylaxis,East Central
+27785,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+27785,White,98%,98%,97%,VTE Prophylaxis,East Central
+27785,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+27785,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,East Central
+27785,White,100%,100%,99%,Antithrombotics at discharge,East Central
+27785,Black,67%,94%,97%,Anticoagulation for AF at discharge,East Central
+27785,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,East Central
+27785,White,97%,97%,97%,Anticoagulation for AF at discharge,East Central
+27785,Black,91%,99%,98%,Statins at Discharge,East Central
+27785,FL_Hispanic,100%,98%,98%,Statins at Discharge,East Central
+27785,White,99%,97%,97%,Statins at Discharge,East Central
+27785,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+27785,White,100%,95%,98%,Smoking Cessation Counseling,East Central
+27785,Black,73%,94%,94%,Defect Free Care,East Central
+27785,FL_Hispanic,100%,96%,94%,Defect Free Care,East Central
+27785,White,97%,94%,93%,Defect Free Care,East Central
+27785,Black,100%,47%,46%,Door To Needle Time Within 60 Minutes,East Central
+27785,White,50%,44%,52%,Door To Needle Time Within 60 Minutes,East Central
+27785,Black,13%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+27785,White,23%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+27785,Black,100%,37%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+27785,White,34%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+29944,Black,100%,100%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,North
+29944,White,63%,89%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,North
+29944,Black,100%,99%,98%,Early Antithrombotics (2 days),North
+29944,FL_Hispanic,100%,100%,97%,Early Antithrombotics (2 days),North
+29944,White,96%,98%,98%,Early Antithrombotics (2 days),North
+29944,Black,92%,96%,98%,VTE Prophylaxis,North
+29944,FL_Hispanic,100%,100%,98%,VTE Prophylaxis,North
+29944,White,87%,95%,97%,VTE Prophylaxis,North
+29944,Black,100%,98%,99%,Antithrombotics at discharge,North
+29944,FL_Hispanic,86%,95%,99%,Antithrombotics at discharge,North
+29944,White,100%,99%,99%,Antithrombotics at discharge,North
+29944,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,North
+29944,White,73%,98%,97%,Anticoagulation for AF at discharge,North
+29944,Black,75%,95%,98%,Statins at Discharge,North
+29944,FL_Hispanic,86%,94%,98%,Statins at Discharge,North
+29944,White,87%,95%,97%,Statins at Discharge,North
+29944,Black,100%,96%,97%,Smoking Cessation Counseling,North
+29944,White,100%,99%,98%,Smoking Cessation Counseling,North
+29944,Black,77%,91%,94%,Defect Free Care,North
+29944,FL_Hispanic,86%,96%,94%,Defect Free Care,North
+29944,White,73%,91%,93%,Defect Free Care,North
+29944,Black,23%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),North
+29944,White,26%,40%,36%,Door to CT Time Within 25 Minutes (All Strokes),North
+29944,Black,33%,45%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+29944,White,26%,42%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+29984,Black,100%,90%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,
+29984,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,
+29984,White,83%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+29984,Black,96%,98%,98%,Early Antithrombotics (2 days),
+29984,FL_Hispanic,97%,98%,97%,Early Antithrombotics (2 days),
+29984,White,98%,98%,98%,Early Antithrombotics (2 days),
+29984,Black,100%,99%,98%,VTE Prophylaxis,
+29984,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,
+29984,White,98%,98%,97%,VTE Prophylaxis,
+29984,Black,100%,100%,99%,Antithrombotics at discharge,
+29984,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,
+29984,White,99%,100%,99%,Antithrombotics at discharge,
+29984,Black,100%,94%,97%,Anticoagulation for AF at discharge,
+29984,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,
+29984,White,90%,97%,97%,Anticoagulation for AF at discharge,
+29984,Black,99%,99%,98%,Statins at Discharge,
+29984,FL_Hispanic,100%,98%,98%,Statins at Discharge,
+29984,White,98%,97%,97%,Statins at Discharge,
+29984,Black,100%,94%,97%,Smoking Cessation Counseling,
+29984,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,
+29984,White,100%,95%,98%,Smoking Cessation Counseling,
+29984,Black,95%,94%,94%,Defect Free Care,
+29984,FL_Hispanic,98%,96%,94%,Defect Free Care,
+29984,White,92%,94%,93%,Defect Free Care,
+29984,Black,56%,47%,46%,Door To Needle Time Within 60 Minutes,
+29984,FL_Hispanic,71%,43%,68%,Door To Needle Time Within 60 Minutes,
+29984,White,61%,44%,52%,Door To Needle Time Within 60 Minutes,
+29984,Black,43%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),
+29984,FL_Hispanic,50%,20%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+29984,White,50%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+29984,Black,33%,37%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+29984,FL_Hispanic,33%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+29984,White,32%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+31167,White,90%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+31167,Black,83%,97%,98%,Early Antithrombotics (2 days),West Central
+31167,FL_Hispanic,67%,97%,97%,Early Antithrombotics (2 days),West Central
+31167,White,97%,97%,98%,Early Antithrombotics (2 days),West Central
+31167,Black,67%,98%,98%,VTE Prophylaxis,West Central
+31167,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+31167,White,85%,98%,97%,VTE Prophylaxis,West Central
+31167,Black,80%,99%,99%,Antithrombotics at discharge,West Central
+31167,FL_Hispanic,67%,98%,99%,Antithrombotics at discharge,West Central
+31167,White,96%,99%,99%,Antithrombotics at discharge,West Central
+31167,Black,100%,95%,97%,Anticoagulation for AF at discharge,West Central
+31167,White,96%,97%,97%,Anticoagulation for AF at discharge,West Central
+31167,Black,100%,96%,98%,Statins at Discharge,West Central
+31167,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+31167,White,91%,97%,97%,Statins at Discharge,West Central
+31167,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+31167,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+31167,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+31167,Black,67%,93%,94%,Defect Free Care,West Central
+31167,FL_Hispanic,33%,92%,94%,Defect Free Care,West Central
+31167,White,76%,93%,93%,Defect Free Care,West Central
+31167,Black,40%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+31167,FL_Hispanic,50%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+31167,White,44%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+31167,White,33%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+31190,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+31190,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+31190,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+31190,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+31190,FL_Hispanic,99%,97%,97%,Early Antithrombotics (2 days),South
+31190,White,95%,98%,98%,Early Antithrombotics (2 days),South
+31190,Black,96%,98%,98%,VTE Prophylaxis,South
+31190,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+31190,White,99%,97%,97%,VTE Prophylaxis,South
+31190,Black,100%,99%,99%,Antithrombotics at discharge,South
+31190,FL_Hispanic,99%,99%,99%,Antithrombotics at discharge,South
+31190,White,100%,99%,99%,Antithrombotics at discharge,South
+31190,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+31190,FL_Hispanic,95%,97%,98%,Anticoagulation for AF at discharge,South
+31190,White,95%,97%,97%,Anticoagulation for AF at discharge,South
+31190,Black,94%,99%,98%,Statins at Discharge,South
+31190,FL_Hispanic,97%,98%,98%,Statins at Discharge,South
+31190,White,94%,98%,97%,Statins at Discharge,South
+31190,Black,100%,97%,97%,Smoking Cessation Counseling,South
+31190,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+31190,White,100%,99%,98%,Smoking Cessation Counseling,South
+31190,Black,96%,94%,94%,Defect Free Care,South
+31190,FL_Hispanic,96%,93%,94%,Defect Free Care,South
+31190,White,90%,94%,93%,Defect Free Care,South
+31190,Black,50%,54%,46%,Door To Needle Time Within 60 Minutes,South
+31190,FL_Hispanic,82%,76%,68%,Door To Needle Time Within 60 Minutes,South
+31190,White,60%,66%,52%,Door To Needle Time Within 60 Minutes,South
+31190,Black,37%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+31190,FL_Hispanic,38%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+31190,White,34%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+31190,Black,80%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+31190,FL_Hispanic,32%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+31190,White,23%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+31193,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+31193,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+31193,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+31193,White,100%,97%,98%,Early Antithrombotics (2 days),West Central
+31193,Black,100%,98%,98%,VTE Prophylaxis,West Central
+31193,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+31193,White,100%,98%,97%,VTE Prophylaxis,West Central
+31193,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+31193,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+31193,White,100%,99%,99%,Antithrombotics at discharge,West Central
+31193,Black,100%,95%,97%,Anticoagulation for AF at discharge,West Central
+31193,White,95%,97%,97%,Anticoagulation for AF at discharge,West Central
+31193,Black,100%,96%,98%,Statins at Discharge,West Central
+31193,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+31193,White,99%,97%,97%,Statins at Discharge,West Central
+31193,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+31193,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+31193,Black,100%,93%,94%,Defect Free Care,West Central
+31193,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+31193,White,98%,93%,93%,Defect Free Care,West Central
+31193,White,18%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+31193,White,93%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+31193,White,28%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+31228,Black,100%,100%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,
+31228,White,75%,89%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+31228,Black,98%,99%,98%,Early Antithrombotics (2 days),
+31228,FL_Hispanic,100%,100%,97%,Early Antithrombotics (2 days),
+31228,White,100%,98%,98%,Early Antithrombotics (2 days),
+31228,Black,98%,96%,98%,VTE Prophylaxis,
+31228,FL_Hispanic,100%,100%,98%,VTE Prophylaxis,
+31228,White,96%,95%,97%,VTE Prophylaxis,
+31228,Black,93%,98%,99%,Antithrombotics at discharge,
+31228,FL_Hispanic,100%,95%,99%,Antithrombotics at discharge,
+31228,White,94%,99%,99%,Antithrombotics at discharge,
+31228,Black,100%,100%,97%,Anticoagulation for AF at discharge,
+31228,White,100%,98%,97%,Anticoagulation for AF at discharge,
+31228,Black,83%,95%,98%,Statins at Discharge,
+31228,FL_Hispanic,100%,94%,98%,Statins at Discharge,
+31228,White,89%,95%,97%,Statins at Discharge,
+31228,Black,88%,96%,97%,Smoking Cessation Counseling,
+31228,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,
+31228,White,100%,99%,98%,Smoking Cessation Counseling,
+31228,Black,78%,91%,94%,Defect Free Care,
+31228,FL_Hispanic,100%,96%,94%,Defect Free Care,
+31228,White,92%,91%,93%,Defect Free Care,
+31228,Black,67%,42%,46%,Door To Needle Time Within 60 Minutes,
+31228,White,33%,49%,52%,Door To Needle Time Within 60 Minutes,
+31228,Black,11%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),
+31228,White,30%,40%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+31228,Black,50%,45%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+31228,FL_Hispanic,100%,50%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+31228,White,46%,42%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+32647,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+32647,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+32647,White,95%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+32647,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+32647,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+32647,White,99%,98%,98%,Early Antithrombotics (2 days),South
+32647,Black,100%,98%,98%,VTE Prophylaxis,South
+32647,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+32647,White,100%,97%,97%,VTE Prophylaxis,South
+32647,Black,100%,99%,99%,Antithrombotics at discharge,South
+32647,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+32647,White,100%,99%,99%,Antithrombotics at discharge,South
+32647,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+32647,White,95%,97%,97%,Anticoagulation for AF at discharge,South
+32647,Black,100%,99%,98%,Statins at Discharge,South
+32647,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+32647,White,99%,98%,97%,Statins at Discharge,South
+32647,Black,100%,97%,97%,Smoking Cessation Counseling,South
+32647,White,100%,99%,98%,Smoking Cessation Counseling,South
+32647,Black,100%,94%,94%,Defect Free Care,South
+32647,FL_Hispanic,100%,93%,94%,Defect Free Care,South
+32647,White,97%,94%,93%,Defect Free Care,South
+32647,Black,33%,54%,46%,Door To Needle Time Within 60 Minutes,South
+32647,FL_Hispanic,75%,76%,68%,Door To Needle Time Within 60 Minutes,South
+32647,White,92%,66%,52%,Door To Needle Time Within 60 Minutes,South
+32647,Black,30%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+32647,FL_Hispanic,45%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+32647,White,40%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+32647,Black,30%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+32647,FL_Hispanic,67%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+32647,White,43%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+33568,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+33568,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+33568,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+33568,FL_Hispanic,90%,97%,97%,Early Antithrombotics (2 days),South
+33568,White,94%,98%,98%,Early Antithrombotics (2 days),South
+33568,Black,89%,98%,98%,VTE Prophylaxis,South
+33568,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+33568,White,95%,97%,97%,VTE Prophylaxis,South
+33568,Black,100%,99%,99%,Antithrombotics at discharge,South
+33568,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+33568,White,99%,99%,99%,Antithrombotics at discharge,South
+33568,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+33568,White,96%,97%,97%,Anticoagulation for AF at discharge,South
+33568,Black,91%,99%,98%,Statins at Discharge,South
+33568,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+33568,White,98%,98%,97%,Statins at Discharge,South
+33568,Black,100%,97%,97%,Smoking Cessation Counseling,South
+33568,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+33568,White,100%,99%,98%,Smoking Cessation Counseling,South
+33568,Black,86%,94%,94%,Defect Free Care,South
+33568,FL_Hispanic,91%,93%,94%,Defect Free Care,South
+33568,White,88%,94%,93%,Defect Free Care,South
+33568,Black,75%,54%,46%,Door To Needle Time Within 60 Minutes,South
+33568,White,50%,66%,52%,Door To Needle Time Within 60 Minutes,South
+33568,Black,22%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+33568,FL_Hispanic,20%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+33568,White,25%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+33568,Black,100%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+33568,White,40%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+33607,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+33607,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+33607,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+33607,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+33607,White,98%,98%,98%,Early Antithrombotics (2 days),South
+33607,Black,100%,98%,98%,VTE Prophylaxis,South
+33607,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+33607,White,99%,97%,97%,VTE Prophylaxis,South
+33607,Black,100%,99%,99%,Antithrombotics at discharge,South
+33607,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+33607,White,100%,99%,99%,Antithrombotics at discharge,South
+33607,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+33607,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+33607,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+33607,White,100%,98%,97%,Statins at Discharge,South
+33607,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+33607,White,100%,99%,98%,Smoking Cessation Counseling,South
+33607,Black,100%,94%,94%,Defect Free Care,South
+33607,FL_Hispanic,100%,93%,94%,Defect Free Care,South
+33607,White,98%,94%,93%,Defect Free Care,South
+33607,FL_Hispanic,67%,76%,68%,Door To Needle Time Within 60 Minutes,South
+33607,White,74%,66%,52%,Door To Needle Time Within 60 Minutes,South
+33607,FL_Hispanic,50%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+33607,White,38%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+33607,FL_Hispanic,60%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+33607,White,60%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+34227,Black,50%,90%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34227,FL_Hispanic,75%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34227,White,88%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34227,Black,100%,98%,98%,Early Antithrombotics (2 days),
+34227,FL_Hispanic,86%,98%,97%,Early Antithrombotics (2 days),
+34227,White,98%,98%,98%,Early Antithrombotics (2 days),
+34227,Black,100%,99%,98%,VTE Prophylaxis,
+34227,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,
+34227,White,99%,98%,97%,VTE Prophylaxis,
+34227,Black,100%,100%,99%,Antithrombotics at discharge,
+34227,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,
+34227,White,100%,100%,99%,Antithrombotics at discharge,
+34227,Black,100%,94%,97%,Anticoagulation for AF at discharge,
+34227,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,
+34227,White,100%,97%,97%,Anticoagulation for AF at discharge,
+34227,Black,100%,99%,98%,Statins at Discharge,
+34227,FL_Hispanic,100%,98%,98%,Statins at Discharge,
+34227,White,99%,97%,97%,Statins at Discharge,
+34227,Black,100%,94%,97%,Smoking Cessation Counseling,
+34227,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,
+34227,White,96%,95%,98%,Smoking Cessation Counseling,
+34227,Black,96%,94%,94%,Defect Free Care,
+34227,FL_Hispanic,80%,96%,94%,Defect Free Care,
+34227,White,95%,94%,93%,Defect Free Care,
+34227,FL_Hispanic,100%,43%,68%,Door To Needle Time Within 60 Minutes,
+34227,White,89%,44%,52%,Door To Needle Time Within 60 Minutes,
+34227,Black,17%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),
+34227,FL_Hispanic,20%,20%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+34227,White,21%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+34227,Black,25%,37%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+34227,FL_Hispanic,60%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+34227,White,21%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+34271,Black,100%,100%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34271,White,100%,89%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34271,Black,100%,99%,98%,Early Antithrombotics (2 days),
+34271,FL_Hispanic,100%,100%,97%,Early Antithrombotics (2 days),
+34271,White,99%,98%,98%,Early Antithrombotics (2 days),
+34271,Black,80%,96%,98%,VTE Prophylaxis,
+34271,FL_Hispanic,100%,100%,98%,VTE Prophylaxis,
+34271,White,96%,95%,97%,VTE Prophylaxis,
+34271,Black,100%,98%,99%,Antithrombotics at discharge,
+34271,FL_Hispanic,100%,95%,99%,Antithrombotics at discharge,
+34271,White,100%,99%,99%,Antithrombotics at discharge,
+34271,White,100%,98%,97%,Anticoagulation for AF at discharge,
+34271,Black,100%,95%,98%,Statins at Discharge,
+34271,FL_Hispanic,100%,94%,98%,Statins at Discharge,
+34271,White,97%,95%,97%,Statins at Discharge,
+34271,White,100%,99%,98%,Smoking Cessation Counseling,
+34271,Black,80%,91%,94%,Defect Free Care,
+34271,FL_Hispanic,100%,96%,94%,Defect Free Care,
+34271,White,92%,91%,93%,Defect Free Care,
+34271,Black,50%,42%,46%,Door To Needle Time Within 60 Minutes,
+34271,White,100%,49%,52%,Door To Needle Time Within 60 Minutes,
+34271,Black,20%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),
+34271,White,30%,40%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+34271,Black,100%,45%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+34271,White,7%,42%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+35507,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+35507,FL_Hispanic,100%,94%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+35507,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+35507,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+35507,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+35507,White,98%,97%,98%,Early Antithrombotics (2 days),West Central
+35507,Black,96%,98%,98%,VTE Prophylaxis,West Central
+35507,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+35507,White,100%,98%,97%,VTE Prophylaxis,West Central
+35507,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+35507,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+35507,White,98%,99%,99%,Antithrombotics at discharge,West Central
+35507,Black,100%,95%,97%,Anticoagulation for AF at discharge,West Central
+35507,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,West Central
+35507,White,98%,97%,97%,Anticoagulation for AF at discharge,West Central
+35507,Black,100%,96%,98%,Statins at Discharge,West Central
+35507,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+35507,White,99%,97%,97%,Statins at Discharge,West Central
+35507,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+35507,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+35507,Black,96%,93%,94%,Defect Free Care,West Central
+35507,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+35507,White,97%,93%,93%,Defect Free Care,West Central
+35507,Black,100%,28%,46%,Door To Needle Time Within 60 Minutes,West Central
+35507,FL_Hispanic,100%,35%,68%,Door To Needle Time Within 60 Minutes,West Central
+35507,White,70%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+35507,Black,37%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+35507,FL_Hispanic,57%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+35507,White,41%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+35507,Black,25%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+35507,FL_Hispanic,100%,33%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+35507,White,45%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+37214,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+37214,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+37214,White,92%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+37214,Black,98%,97%,98%,Early Antithrombotics (2 days),South
+37214,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+37214,White,100%,98%,98%,Early Antithrombotics (2 days),South
+37214,Black,99%,98%,98%,VTE Prophylaxis,South
+37214,FL_Hispanic,92%,98%,98%,VTE Prophylaxis,South
+37214,White,99%,97%,97%,VTE Prophylaxis,South
+37214,Black,100%,99%,99%,Antithrombotics at discharge,South
+37214,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+37214,White,100%,99%,99%,Antithrombotics at discharge,South
+37214,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+37214,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+37214,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+37214,Black,100%,99%,98%,Statins at Discharge,South
+37214,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+37214,White,98%,98%,97%,Statins at Discharge,South
+37214,Black,100%,97%,97%,Smoking Cessation Counseling,South
+37214,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+37214,White,100%,99%,98%,Smoking Cessation Counseling,South
+37214,Black,98%,94%,94%,Defect Free Care,South
+37214,FL_Hispanic,92%,93%,94%,Defect Free Care,South
+37214,White,97%,94%,93%,Defect Free Care,South
+37214,Black,36%,54%,46%,Door To Needle Time Within 60 Minutes,South
+37214,FL_Hispanic,50%,76%,68%,Door To Needle Time Within 60 Minutes,South
+37214,White,38%,66%,52%,Door To Needle Time Within 60 Minutes,South
+37214,Black,30%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+37214,FL_Hispanic,33%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+37214,White,34%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+37214,Black,52%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+37214,FL_Hispanic,100%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+37214,White,46%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+37454,Black,100%,90%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37454,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37454,White,100%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37454,Black,97%,98%,98%,Early Antithrombotics (2 days),East Central
+37454,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+37454,White,99%,98%,98%,Early Antithrombotics (2 days),East Central
+37454,Black,95%,99%,98%,VTE Prophylaxis,East Central
+37454,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+37454,White,99%,98%,97%,VTE Prophylaxis,East Central
+37454,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+37454,FL_Hispanic,95%,99%,99%,Antithrombotics at discharge,East Central
+37454,White,99%,100%,99%,Antithrombotics at discharge,East Central
+37454,Black,100%,94%,97%,Anticoagulation for AF at discharge,East Central
+37454,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,East Central
+37454,White,95%,97%,97%,Anticoagulation for AF at discharge,East Central
+37454,Black,100%,99%,98%,Statins at Discharge,East Central
+37454,FL_Hispanic,100%,98%,98%,Statins at Discharge,East Central
+37454,White,98%,97%,97%,Statins at Discharge,East Central
+37454,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+37454,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,East Central
+37454,White,90%,95%,98%,Smoking Cessation Counseling,East Central
+37454,Black,95%,94%,94%,Defect Free Care,East Central
+37454,FL_Hispanic,96%,96%,94%,Defect Free Care,East Central
+37454,White,95%,94%,93%,Defect Free Care,East Central
+37454,FL_Hispanic,50%,43%,68%,Door To Needle Time Within 60 Minutes,East Central
+37454,White,33%,44%,52%,Door To Needle Time Within 60 Minutes,East Central
+37454,Black,8%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37454,White,9%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37454,Black,50%,37%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37454,FL_Hispanic,67%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37454,White,35%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37474,Black,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37474,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+37474,White,91%,98%,98%,Early Antithrombotics (2 days),East Central
+37474,Black,100%,99%,98%,VTE Prophylaxis,East Central
+37474,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+37474,White,100%,98%,97%,VTE Prophylaxis,East Central
+37474,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+37474,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,East Central
+37474,White,91%,100%,99%,Antithrombotics at discharge,East Central
+37474,White,100%,97%,97%,Anticoagulation for AF at discharge,East Central
+37474,Black,100%,99%,98%,Statins at Discharge,East Central
+37474,FL_Hispanic,100%,98%,98%,Statins at Discharge,East Central
+37474,White,100%,97%,97%,Statins at Discharge,East Central
+37474,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+37474,White,100%,95%,98%,Smoking Cessation Counseling,East Central
+37474,Black,100%,94%,94%,Defect Free Care,East Central
+37474,FL_Hispanic,100%,96%,94%,Defect Free Care,East Central
+37474,White,92%,94%,93%,Defect Free Care,East Central
+37474,White,9%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37475,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37475,White,67%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37475,Black,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37475,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+37475,White,99%,98%,98%,Early Antithrombotics (2 days),East Central
+37475,Black,100%,99%,98%,VTE Prophylaxis,East Central
+37475,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+37475,White,98%,98%,97%,VTE Prophylaxis,East Central
+37475,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+37475,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,East Central
+37475,White,100%,100%,99%,Antithrombotics at discharge,East Central
+37475,White,100%,97%,97%,Anticoagulation for AF at discharge,East Central
+37475,Black,100%,99%,98%,Statins at Discharge,East Central
+37475,FL_Hispanic,86%,98%,98%,Statins at Discharge,East Central
+37475,White,100%,97%,97%,Statins at Discharge,East Central
+37475,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+37475,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,East Central
+37475,White,100%,95%,98%,Smoking Cessation Counseling,East Central
+37475,Black,100%,94%,94%,Defect Free Care,East Central
+37475,FL_Hispanic,93%,96%,94%,Defect Free Care,East Central
+37475,White,96%,94%,93%,Defect Free Care,East Central
+37475,FL_Hispanic,14%,20%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37475,White,8%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37475,FL_Hispanic,100%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37475,White,33%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37476,Black,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37476,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+37476,White,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37476,Black,100%,99%,98%,VTE Prophylaxis,East Central
+37476,FL_Hispanic,94%,99%,98%,VTE Prophylaxis,East Central
+37476,White,100%,98%,97%,VTE Prophylaxis,East Central
+37476,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+37476,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,East Central
+37476,White,100%,100%,99%,Antithrombotics at discharge,East Central
+37476,Black,100%,94%,97%,Anticoagulation for AF at discharge,East Central
+37476,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,East Central
+37476,White,89%,97%,97%,Anticoagulation for AF at discharge,East Central
+37476,Black,89%,99%,98%,Statins at Discharge,East Central
+37476,FL_Hispanic,93%,98%,98%,Statins at Discharge,East Central
+37476,White,93%,97%,97%,Statins at Discharge,East Central
+37476,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+37476,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,East Central
+37476,White,100%,95%,98%,Smoking Cessation Counseling,East Central
+37476,Black,93%,94%,94%,Defect Free Care,East Central
+37476,FL_Hispanic,88%,96%,94%,Defect Free Care,East Central
+37476,White,93%,94%,93%,Defect Free Care,East Central
+37476,White,5%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37494,Black,100%,90%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37494,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37494,White,96%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37494,Black,99%,98%,98%,Early Antithrombotics (2 days),East Central
+37494,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+37494,White,99%,98%,98%,Early Antithrombotics (2 days),East Central
+37494,Black,100%,99%,98%,VTE Prophylaxis,East Central
+37494,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+37494,White,100%,98%,97%,VTE Prophylaxis,East Central
+37494,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+37494,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,East Central
+37494,White,100%,100%,99%,Antithrombotics at discharge,East Central
+37494,Black,100%,94%,97%,Anticoagulation for AF at discharge,East Central
+37494,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,East Central
+37494,White,100%,97%,97%,Anticoagulation for AF at discharge,East Central
+37494,Black,99%,99%,98%,Statins at Discharge,East Central
+37494,FL_Hispanic,100%,98%,98%,Statins at Discharge,East Central
+37494,White,100%,97%,97%,Statins at Discharge,East Central
+37494,Black,84%,94%,97%,Smoking Cessation Counseling,East Central
+37494,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,East Central
+37494,White,92%,95%,98%,Smoking Cessation Counseling,East Central
+37494,Black,95%,94%,94%,Defect Free Care,East Central
+37494,FL_Hispanic,100%,96%,94%,Defect Free Care,East Central
+37494,White,97%,94%,93%,Defect Free Care,East Central
+37494,Black,56%,47%,46%,Door To Needle Time Within 60 Minutes,East Central
+37494,FL_Hispanic,42%,43%,68%,Door To Needle Time Within 60 Minutes,East Central
+37494,White,47%,44%,52%,Door To Needle Time Within 60 Minutes,East Central
+37494,Black,18%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37494,FL_Hispanic,29%,20%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37494,White,31%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37494,Black,38%,37%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37494,FL_Hispanic,39%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37494,White,43%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37495,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37495,White,100%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37495,Black,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37495,FL_Hispanic,96%,98%,97%,Early Antithrombotics (2 days),East Central
+37495,White,97%,98%,98%,Early Antithrombotics (2 days),East Central
+37495,Black,100%,99%,98%,VTE Prophylaxis,East Central
+37495,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+37495,White,100%,98%,97%,VTE Prophylaxis,East Central
+37495,Black,94%,100%,99%,Antithrombotics at discharge,East Central
+37495,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,East Central
+37495,White,99%,100%,99%,Antithrombotics at discharge,East Central
+37495,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,East Central
+37495,White,100%,97%,97%,Anticoagulation for AF at discharge,East Central
+37495,Black,100%,99%,98%,Statins at Discharge,East Central
+37495,FL_Hispanic,100%,98%,98%,Statins at Discharge,East Central
+37495,White,100%,97%,97%,Statins at Discharge,East Central
+37495,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+37495,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,East Central
+37495,White,91%,95%,98%,Smoking Cessation Counseling,East Central
+37495,Black,94%,94%,94%,Defect Free Care,East Central
+37495,FL_Hispanic,96%,96%,94%,Defect Free Care,East Central
+37495,White,95%,94%,93%,Defect Free Care,East Central
+37495,White,25%,44%,52%,Door To Needle Time Within 60 Minutes,East Central
+37495,Black,13%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37495,White,4%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37495,FL_Hispanic,25%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37495,White,29%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37496,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37496,White,100%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37496,Black,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37496,FL_Hispanic,100%,98%,97%,Early Antithrombotics (2 days),East Central
+37496,White,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37496,Black,100%,99%,98%,VTE Prophylaxis,East Central
+37496,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,East Central
+37496,White,97%,98%,97%,VTE Prophylaxis,East Central
+37496,Black,100%,100%,99%,Antithrombotics at discharge,East Central
+37496,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,East Central
+37496,White,100%,100%,99%,Antithrombotics at discharge,East Central
+37496,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,East Central
+37496,White,100%,97%,97%,Anticoagulation for AF at discharge,East Central
+37496,Black,100%,99%,98%,Statins at Discharge,East Central
+37496,FL_Hispanic,100%,98%,98%,Statins at Discharge,East Central
+37496,White,93%,97%,97%,Statins at Discharge,East Central
+37496,Black,100%,94%,97%,Smoking Cessation Counseling,East Central
+37496,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,East Central
+37496,White,100%,95%,98%,Smoking Cessation Counseling,East Central
+37496,Black,100%,94%,94%,Defect Free Care,East Central
+37496,FL_Hispanic,100%,96%,94%,Defect Free Care,East Central
+37496,White,92%,94%,93%,Defect Free Care,East Central
+37496,FL_Hispanic,50%,43%,68%,Door To Needle Time Within 60 Minutes,East Central
+37496,White,100%,44%,52%,Door To Needle Time Within 60 Minutes,East Central
+37496,Black,40%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37496,FL_Hispanic,28%,20%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37496,White,24%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37496,FL_Hispanic,50%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37496,White,75%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37556,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+37556,Black,94%,97%,98%,Early Antithrombotics (2 days),West Central
+37556,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+37556,White,96%,97%,98%,Early Antithrombotics (2 days),West Central
+37556,Black,100%,98%,98%,VTE Prophylaxis,West Central
+37556,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+37556,White,94%,98%,97%,VTE Prophylaxis,West Central
+37556,Black,94%,99%,99%,Antithrombotics at discharge,West Central
+37556,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+37556,White,97%,99%,99%,Antithrombotics at discharge,West Central
+37556,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+37556,Black,100%,96%,98%,Statins at Discharge,West Central
+37556,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+37556,White,95%,97%,97%,Statins at Discharge,West Central
+37556,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+37556,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,West Central
+37556,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+37556,Black,88%,93%,94%,Defect Free Care,West Central
+37556,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+37556,White,87%,93%,93%,Defect Free Care,West Central
+37556,White,50%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+37556,Black,14%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+37556,White,25%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+37556,White,14%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+37818,PR_Hispanic,96%,67%,67%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+37818,PR_Hispanic,86%,85%,85%,Early Antithrombotics (2 days),PR
+37818,PR_Hispanic,90%,79%,79%,VTE Prophylaxis,PR
+37818,PR_Hispanic,96%,93%,93%,Antithrombotics at discharge,PR
+37818,PR_Hispanic,97%,93%,93%,Anticoagulation for AF at discharge,PR
+37818,PR_Hispanic,88%,83%,83%,Statins at Discharge,PR
+37818,PR_Hispanic,100%,95%,95%,Smoking Cessation Counseling,PR
+37818,PR_Hispanic,74%,63%,63%,Defect Free Care,PR
+37818,PR_Hispanic,50%,49%,49%,Door To Needle Time Within 60 Minutes,PR
+37818,PR_Hispanic,19%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR
+37818,PR_Hispanic,47%,54%,54%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+37896,Black,100%,100%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,North
+37896,White,96%,89%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,North
+37896,Black,100%,99%,98%,Early Antithrombotics (2 days),North
+37896,FL_Hispanic,100%,100%,97%,Early Antithrombotics (2 days),North
+37896,White,99%,98%,98%,Early Antithrombotics (2 days),North
+37896,Black,99%,96%,98%,VTE Prophylaxis,North
+37896,FL_Hispanic,100%,100%,98%,VTE Prophylaxis,North
+37896,White,97%,95%,97%,VTE Prophylaxis,North
+37896,Black,99%,98%,99%,Antithrombotics at discharge,North
+37896,FL_Hispanic,100%,95%,99%,Antithrombotics at discharge,North
+37896,White,100%,99%,99%,Antithrombotics at discharge,North
+37896,Black,100%,100%,97%,Anticoagulation for AF at discharge,North
+37896,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,North
+37896,White,100%,98%,97%,Anticoagulation for AF at discharge,North
+37896,Black,99%,95%,98%,Statins at Discharge,North
+37896,FL_Hispanic,100%,94%,98%,Statins at Discharge,North
+37896,White,97%,95%,97%,Statins at Discharge,North
+37896,Black,96%,96%,97%,Smoking Cessation Counseling,North
+37896,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,North
+37896,White,97%,99%,98%,Smoking Cessation Counseling,North
+37896,Black,97%,91%,94%,Defect Free Care,North
+37896,FL_Hispanic,100%,96%,94%,Defect Free Care,North
+37896,White,93%,91%,93%,Defect Free Care,North
+37896,Black,55%,42%,46%,Door To Needle Time Within 60 Minutes,North
+37896,White,70%,49%,52%,Door To Needle Time Within 60 Minutes,North
+37896,Black,32%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),North
+37896,FL_Hispanic,17%,5%,36%,Door to CT Time Within 25 Minutes (All Strokes),North
+37896,White,34%,40%,36%,Door to CT Time Within 25 Minutes (All Strokes),North
+37896,Black,53%,45%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+37896,FL_Hispanic,50%,50%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+37896,White,57%,42%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+40934,White,63%,89%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+40934,Black,100%,99%,98%,Early Antithrombotics (2 days),
+40934,FL_Hispanic,100%,100%,97%,Early Antithrombotics (2 days),
+40934,White,97%,98%,98%,Early Antithrombotics (2 days),
+40934,Black,86%,96%,98%,VTE Prophylaxis,
+40934,FL_Hispanic,100%,100%,98%,VTE Prophylaxis,
+40934,White,92%,95%,97%,VTE Prophylaxis,
+40934,Black,100%,98%,99%,Antithrombotics at discharge,
+40934,FL_Hispanic,100%,95%,99%,Antithrombotics at discharge,
+40934,White,98%,99%,99%,Antithrombotics at discharge,
+40934,White,100%,98%,97%,Anticoagulation for AF at discharge,
+40934,Black,100%,95%,98%,Statins at Discharge,
+40934,FL_Hispanic,100%,94%,98%,Statins at Discharge,
+40934,White,94%,95%,97%,Statins at Discharge,
+40934,Black,100%,96%,97%,Smoking Cessation Counseling,
+40934,White,100%,99%,98%,Smoking Cessation Counseling,
+40934,Black,86%,91%,94%,Defect Free Care,
+40934,FL_Hispanic,100%,96%,94%,Defect Free Care,
+40934,White,83%,91%,93%,Defect Free Care,
+40934,White,50%,49%,52%,Door To Needle Time Within 60 Minutes,
+40934,White,40%,40%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+40934,White,43%,42%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+43254,PR_Hispanic,88%,67%,67%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+43254,PR_Hispanic,93%,85%,85%,Early Antithrombotics (2 days),PR
+43254,PR_Hispanic,87%,79%,79%,VTE Prophylaxis,PR
+43254,PR_Hispanic,100%,93%,93%,Antithrombotics at discharge,PR
+43254,PR_Hispanic,100%,93%,93%,Anticoagulation for AF at discharge,PR
+43254,PR_Hispanic,100%,83%,83%,Statins at Discharge,PR
+43254,PR_Hispanic,100%,95%,95%,Smoking Cessation Counseling,PR
+43254,PR_Hispanic,79%,63%,63%,Defect Free Care,PR
+43254,PR_Hispanic,51%,49%,49%,Door To Needle Time Within 60 Minutes,PR
+43254,PR_Hispanic,89%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR
+43254,PR_Hispanic,90%,54%,54%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+45054,PR_Hispanic,25%,67%,67%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+45054,PR_Hispanic,54%,85%,85%,Early Antithrombotics (2 days),PR
+45054,PR_Hispanic,54%,79%,79%,VTE Prophylaxis,PR
+45054,PR_Hispanic,78%,93%,93%,Antithrombotics at discharge,PR
+45054,PR_Hispanic,89%,93%,93%,Anticoagulation for AF at discharge,PR
+45054,PR_Hispanic,63%,83%,83%,Statins at Discharge,PR
+45054,PR_Hispanic,50%,95%,95%,Smoking Cessation Counseling,PR
+45054,PR_Hispanic,23%,63%,63%,Defect Free Care,PR
+45054,PR_Hispanic,39%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR
+45054,PR_Hispanic,43%,54%,54%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+47534,Black,100%,96%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+47534,White,100%,94%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+47534,Black,100%,97%,98%,Early Antithrombotics (2 days),West Central
+47534,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),West Central
+47534,White,100%,97%,98%,Early Antithrombotics (2 days),West Central
+47534,Black,100%,98%,98%,VTE Prophylaxis,West Central
+47534,FL_Hispanic,100%,99%,98%,VTE Prophylaxis,West Central
+47534,White,95%,98%,97%,VTE Prophylaxis,West Central
+47534,Black,100%,99%,99%,Antithrombotics at discharge,West Central
+47534,FL_Hispanic,100%,98%,99%,Antithrombotics at discharge,West Central
+47534,White,100%,99%,99%,Antithrombotics at discharge,West Central
+47534,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+47534,Black,67%,96%,98%,Statins at Discharge,West Central
+47534,FL_Hispanic,100%,96%,98%,Statins at Discharge,West Central
+47534,White,100%,97%,97%,Statins at Discharge,West Central
+47534,Black,100%,99%,97%,Smoking Cessation Counseling,West Central
+47534,White,100%,99%,98%,Smoking Cessation Counseling,West Central
+47534,Black,75%,93%,94%,Defect Free Care,West Central
+47534,FL_Hispanic,100%,92%,94%,Defect Free Care,West Central
+47534,White,95%,93%,93%,Defect Free Care,West Central
+47534,White,25%,39%,52%,Door To Needle Time Within 60 Minutes,West Central
+47534,Black,100%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+47534,FL_Hispanic,100%,22%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+47534,White,88%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+47534,Black,33%,32%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+47534,White,32%,31%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+47874,White,100%,97%,98%,Early Antithrombotics (2 days),West Central
+47874,White,86%,98%,97%,VTE Prophylaxis,West Central
+47874,White,86%,99%,99%,Antithrombotics at discharge,West Central
+47874,White,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+47874,White,83%,97%,97%,Statins at Discharge,West Central
+47874,White,57%,93%,93%,Defect Free Care,West Central
+47874,White,57%,34%,36%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+51154,PR_Hispanic,100%,67%,67%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+51154,PR_Hispanic,93%,85%,85%,Early Antithrombotics (2 days),PR
+51154,PR_Hispanic,74%,79%,79%,VTE Prophylaxis,PR
+51154,PR_Hispanic,98%,93%,93%,Antithrombotics at discharge,PR
+51154,PR_Hispanic,97%,93%,93%,Anticoagulation for AF at discharge,PR
+51154,PR_Hispanic,86%,83%,83%,Statins at Discharge,PR
+51154,PR_Hispanic,100%,95%,95%,Smoking Cessation Counseling,PR
+51154,PR_Hispanic,66%,63%,63%,Defect Free Care,PR
+51154,PR_Hispanic,57%,49%,49%,Door To Needle Time Within 60 Minutes,PR
+51154,PR_Hispanic,16%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR
+51154,PR_Hispanic,78%,54%,54%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+57095,Black,100%,98%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57095,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57095,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57095,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+57095,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+57095,White,98%,98%,98%,Early Antithrombotics (2 days),South
+57095,Black,98%,98%,98%,VTE Prophylaxis,South
+57095,FL_Hispanic,92%,98%,98%,VTE Prophylaxis,South
+57095,White,96%,97%,97%,VTE Prophylaxis,South
+57095,Black,100%,99%,99%,Antithrombotics at discharge,South
+57095,FL_Hispanic,94%,99%,99%,Antithrombotics at discharge,South
+57095,White,98%,99%,99%,Antithrombotics at discharge,South
+57095,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+57095,FL_Hispanic,100%,97%,98%,Anticoagulation for AF at discharge,South
+57095,White,75%,97%,97%,Anticoagulation for AF at discharge,South
+57095,Black,100%,99%,98%,Statins at Discharge,South
+57095,FL_Hispanic,96%,98%,98%,Statins at Discharge,South
+57095,White,100%,98%,97%,Statins at Discharge,South
+57095,Black,100%,97%,97%,Smoking Cessation Counseling,South
+57095,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+57095,White,100%,99%,98%,Smoking Cessation Counseling,South
+57095,Black,98%,94%,94%,Defect Free Care,South
+57095,FL_Hispanic,84%,93%,94%,Defect Free Care,South
+57095,White,91%,94%,93%,Defect Free Care,South
+57095,Black,80%,54%,46%,Door To Needle Time Within 60 Minutes,South
+57095,FL_Hispanic,67%,76%,68%,Door To Needle Time Within 60 Minutes,South
+57095,White,33%,66%,52%,Door To Needle Time Within 60 Minutes,South
+57095,Black,32%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+57095,FL_Hispanic,35%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+57095,White,20%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+57095,Black,83%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+57095,FL_Hispanic,38%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+57095,White,22%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+57242,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57242,White,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57242,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+57242,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+57242,White,100%,98%,98%,Early Antithrombotics (2 days),South
+57242,Black,100%,98%,98%,VTE Prophylaxis,South
+57242,FL_Hispanic,100%,98%,98%,VTE Prophylaxis,South
+57242,White,100%,97%,97%,VTE Prophylaxis,South
+57242,Black,100%,99%,99%,Antithrombotics at discharge,South
+57242,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+57242,White,100%,99%,99%,Antithrombotics at discharge,South
+57242,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+57242,White,100%,97%,97%,Anticoagulation for AF at discharge,South
+57242,Black,100%,99%,98%,Statins at Discharge,South
+57242,FL_Hispanic,100%,98%,98%,Statins at Discharge,South
+57242,White,100%,98%,97%,Statins at Discharge,South
+57242,Black,100%,97%,97%,Smoking Cessation Counseling,South
+57242,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+57242,White,100%,99%,98%,Smoking Cessation Counseling,South
+57242,Black,100%,94%,94%,Defect Free Care,South
+57242,FL_Hispanic,100%,93%,94%,Defect Free Care,South
+57242,White,100%,94%,93%,Defect Free Care,South
+57242,Black,100%,54%,46%,Door To Needle Time Within 60 Minutes,South
+57242,White,50%,66%,52%,Door To Needle Time Within 60 Minutes,South
+57242,Black,5%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+57242,FL_Hispanic,17%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+57242,White,10%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+57242,Black,25%,47%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+57242,FL_Hispanic,50%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+57242,White,40%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+65056,Black,67%,90%,96%,rtPA Arrive by 2 hour and Treat by 3 hour,
+65056,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,
+65056,White,67%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+65056,Black,97%,98%,98%,Early Antithrombotics (2 days),
+65056,FL_Hispanic,96%,98%,97%,Early Antithrombotics (2 days),
+65056,White,99%,98%,98%,Early Antithrombotics (2 days),
+65056,Black,98%,99%,98%,VTE Prophylaxis,
+65056,FL_Hispanic,93%,99%,98%,VTE Prophylaxis,
+65056,White,99%,98%,97%,VTE Prophylaxis,
+65056,Black,100%,100%,99%,Antithrombotics at discharge,
+65056,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,
+65056,White,100%,100%,99%,Antithrombotics at discharge,
+65056,Black,75%,94%,97%,Anticoagulation for AF at discharge,
+65056,FL_Hispanic,100%,100%,98%,Anticoagulation for AF at discharge,
+65056,White,100%,97%,97%,Anticoagulation for AF at discharge,
+65056,Black,100%,99%,98%,Statins at Discharge,
+65056,FL_Hispanic,100%,98%,98%,Statins at Discharge,
+65056,White,100%,97%,97%,Statins at Discharge,
+65056,Black,100%,94%,97%,Smoking Cessation Counseling,
+65056,FL_Hispanic,100%,100%,97%,Smoking Cessation Counseling,
+65056,White,100%,95%,98%,Smoking Cessation Counseling,
+65056,Black,91%,94%,94%,Defect Free Care,
+65056,FL_Hispanic,91%,96%,94%,Defect Free Care,
+65056,White,96%,94%,93%,Defect Free Care,
+65056,Black,20%,47%,46%,Door To Needle Time Within 60 Minutes,
+65056,Black,9%,22%,28%,Door to CT Time Within 25 Minutes (All Strokes),
+65056,FL_Hispanic,10%,20%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+65056,White,15%,26%,36%,Door to CT Time Within 25 Minutes (All Strokes),
+65056,Black,38%,37%,42%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+65056,FL_Hispanic,63%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+65056,White,28%,34%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+65695,FL_Hispanic,100%,97%,97%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+65695,White,86%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+65695,Black,100%,97%,98%,Early Antithrombotics (2 days),South
+65695,FL_Hispanic,100%,97%,97%,Early Antithrombotics (2 days),South
+65695,White,95%,98%,98%,Early Antithrombotics (2 days),South
+65695,Black,88%,98%,98%,VTE Prophylaxis,South
+65695,FL_Hispanic,82%,98%,98%,VTE Prophylaxis,South
+65695,White,86%,97%,97%,VTE Prophylaxis,South
+65695,Black,100%,99%,99%,Antithrombotics at discharge,South
+65695,FL_Hispanic,100%,99%,99%,Antithrombotics at discharge,South
+65695,White,97%,99%,99%,Antithrombotics at discharge,South
+65695,Black,100%,98%,97%,Anticoagulation for AF at discharge,South
+65695,FL_Hispanic,75%,97%,98%,Anticoagulation for AF at discharge,South
+65695,White,88%,97%,97%,Anticoagulation for AF at discharge,South
+65695,Black,100%,99%,98%,Statins at Discharge,South
+65695,FL_Hispanic,91%,98%,98%,Statins at Discharge,South
+65695,White,93%,98%,97%,Statins at Discharge,South
+65695,FL_Hispanic,100%,95%,97%,Smoking Cessation Counseling,South
+65695,White,96%,99%,98%,Smoking Cessation Counseling,South
+65695,Black,88%,94%,94%,Defect Free Care,South
+65695,FL_Hispanic,71%,93%,94%,Defect Free Care,South
+65695,White,79%,94%,93%,Defect Free Care,South
+65695,White,29%,66%,52%,Door To Needle Time Within 60 Minutes,South
+65695,Black,50%,32%,28%,Door to CT Time Within 25 Minutes (All Strokes),South
+65695,FL_Hispanic,42%,43%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+65695,White,57%,45%,36%,Door to CT Time Within 25 Minutes (All Strokes),South
+65695,FL_Hispanic,50%,44%,43%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+65695,White,37%,43%,37%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+69905,PR_Hispanic,60%,85%,85%,Early Antithrombotics (2 days),PR
+69905,PR_Hispanic,52%,79%,79%,VTE Prophylaxis,PR
+69905,PR_Hispanic,100%,93%,93%,Antithrombotics at discharge,PR
+69905,PR_Hispanic,50%,83%,83%,Statins at Discharge,PR
+69905,PR_Hispanic,12%,63%,63%,Defect Free Care,PR
+69905,PR_Hispanic,8%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR
+71305,PR_Hispanic,100%,67%,67%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+71305,PR_Hispanic,98%,85%,85%,Early Antithrombotics (2 days),PR
+71305,PR_Hispanic,84%,79%,79%,VTE Prophylaxis,PR
+71305,PR_Hispanic,100%,93%,93%,Antithrombotics at discharge,PR
+71305,PR_Hispanic,100%,93%,93%,Anticoagulation for AF at discharge,PR
+71305,PR_Hispanic,95%,83%,83%,Statins at Discharge,PR
+71305,PR_Hispanic,100%,95%,95%,Smoking Cessation Counseling,PR
+71305,PR_Hispanic,79%,63%,63%,Defect Free Care,PR
+71305,PR_Hispanic,75%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR
+71305,PR_Hispanic,22%,54%,54%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+72828,PR_Hispanic,95%,85%,85%,Early Antithrombotics (2 days),PR
+72828,PR_Hispanic,52%,79%,79%,VTE Prophylaxis,PR
+72828,PR_Hispanic,42%,93%,93%,Antithrombotics at discharge,PR
+72828,PR_Hispanic,40%,93%,93%,Anticoagulation for AF at discharge,PR
+72828,PR_Hispanic,28%,83%,83%,Statins at Discharge,PR
+72828,PR_Hispanic,18%,63%,63%,Defect Free Care,PR
+72828,PR_Hispanic,50%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR
+75346,PR_Hispanic,100%,67%,67%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+75346,PR_Hispanic,20%,63%,63%,Defect Free Care,PR
+75346,PR_Hispanic,43%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR
+75346,PR_Hispanic,100%,54%,54%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+77089,PR_Hispanic,82%,85%,85%,Early Antithrombotics (2 days),PR
+77089,PR_Hispanic,53%,79%,79%,VTE Prophylaxis,PR
+77089,PR_Hispanic,81%,93%,93%,Antithrombotics at discharge,PR
+77089,PR_Hispanic,50%,93%,93%,Anticoagulation for AF at discharge,PR
+77089,PR_Hispanic,69%,83%,83%,Statins at Discharge,PR
+77089,PR_Hispanic,50%,95%,95%,Smoking Cessation Counseling,PR
+77089,PR_Hispanic,38%,63%,63%,Defect Free Care,PR
+77089,PR_Hispanic,14%,29%,29%,Door to CT Time Within 25 Minutes (All Strokes),PR

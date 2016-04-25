@@ -1,0 +1,16 @@
+download r 3.2.5
+	https://cran.r-project.org/bin/windows/base/
+
+file -> change dir
+	select "srip" folder directory
+
+type this in R: install.packages("ggplot2", dependencies=TRUE)
+	if it asks you to use a personal library, hit "yes"
+	select a mirror from the list (doesn't matter which one)
+
+type this in R: install.packages("reshape2", dependencies=TRUE)
+
+to run the program, type this into R: source("run.r")
+	you must be in the root directory of the project in order for it to work
+
+the program might be unresponsive while it runs

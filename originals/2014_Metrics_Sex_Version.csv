@@ -1,0 +1,1426 @@
+Hospital_ID,sex,Percent_Hospital,Percent_Region,Percent_State,outcome,Region
+10140,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10140,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10140,Female,98%,97%,98%,Early Antithrombotics (2 days),West Central
+10140,Male,96%,98%,98%,Early Antithrombotics (2 days),West Central
+10140,Female,100%,98%,98%,VTE Prophylaxis,West Central
+10140,Male,98%,97%,98%,VTE Prophylaxis,West Central
+10140,Female,98%,99%,99%,Antithrombotics at discharge,West Central
+10140,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+10140,Female,89%,97%,97%,Anticoagulation for AF at discharge,West Central
+10140,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+10140,Female,97%,96%,97%,Statins at Discharge,West Central
+10140,Male,98%,98%,98%,Statins at Discharge,West Central
+10140,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+10140,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+10140,Female,94%,92%,93%,Defect Free Care,West Central
+10140,Male,94%,93%,93%,Defect Free Care,West Central
+10140,Female,20%,31%,52%,Door To Needle Time Within 60 Minutes,West Central
+10140,Male,50%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+10140,Female,25%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10140,Male,20%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10140,Female,53%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10140,Male,46%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10400,Female,78%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10400,Male,75%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10400,Female,97%,97%,98%,Early Antithrombotics (2 days),West Central
+10400,Male,99%,98%,98%,Early Antithrombotics (2 days),West Central
+10400,Female,100%,98%,98%,VTE Prophylaxis,West Central
+10400,Male,98%,97%,98%,VTE Prophylaxis,West Central
+10400,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+10400,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+10400,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+10400,Male,95%,98%,97%,Anticoagulation for AF at discharge,West Central
+10400,Female,100%,96%,97%,Statins at Discharge,West Central
+10400,Male,100%,98%,98%,Statins at Discharge,West Central
+10400,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+10400,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+10400,Female,96%,92%,93%,Defect Free Care,West Central
+10400,Male,95%,93%,93%,Defect Free Care,West Central
+10400,Female,14%,31%,52%,Door To Needle Time Within 60 Minutes,West Central
+10400,Male,43%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+10400,Female,44%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10400,Male,36%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10400,Female,18%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10400,Male,26%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10401,Female,83%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10401,Male,88%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+10401,Female,94%,97%,98%,Early Antithrombotics (2 days),West Central
+10401,Male,97%,98%,98%,Early Antithrombotics (2 days),West Central
+10401,Female,96%,98%,98%,VTE Prophylaxis,West Central
+10401,Male,97%,97%,98%,VTE Prophylaxis,West Central
+10401,Female,99%,99%,99%,Antithrombotics at discharge,West Central
+10401,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+10401,Female,97%,97%,97%,Anticoagulation for AF at discharge,West Central
+10401,Male,96%,98%,97%,Anticoagulation for AF at discharge,West Central
+10401,Female,97%,96%,97%,Statins at Discharge,West Central
+10401,Male,93%,98%,98%,Statins at Discharge,West Central
+10401,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+10401,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+10401,Female,87%,92%,93%,Defect Free Care,West Central
+10401,Male,90%,93%,93%,Defect Free Care,West Central
+10401,Female,18%,31%,52%,Door To Needle Time Within 60 Minutes,West Central
+10401,Male,41%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+10401,Female,19%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10401,Male,31%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+10401,Female,27%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10401,Male,39%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+10720,Female,100%,86%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,Panhandle
+10720,Male,100%,94%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,Panhandle
+10720,Female,99%,98%,98%,Early Antithrombotics (2 days),Panhandle
+10720,Male,100%,99%,98%,Early Antithrombotics (2 days),Panhandle
+10720,Female,100%,95%,98%,VTE Prophylaxis,Panhandle
+10720,Male,100%,96%,98%,VTE Prophylaxis,Panhandle
+10720,Female,100%,99%,99%,Antithrombotics at discharge,Panhandle
+10720,Male,100%,99%,99%,Antithrombotics at discharge,Panhandle
+10720,Female,100%,97%,97%,Anticoagulation for AF at discharge,Panhandle
+10720,Male,100%,99%,97%,Anticoagulation for AF at discharge,Panhandle
+10720,Female,100%,95%,97%,Statins at Discharge,Panhandle
+10720,Male,99%,96%,98%,Statins at Discharge,Panhandle
+10720,Female,100%,98%,98%,Smoking Cessation Counseling,Panhandle
+10720,Male,100%,99%,97%,Smoking Cessation Counseling,Panhandle
+10720,Female,99%,90%,93%,Defect Free Care,Panhandle
+10720,Male,99%,92%,93%,Defect Free Care,Panhandle
+10720,Female,14%,41%,52%,Door To Needle Time Within 60 Minutes,Panhandle
+10720,Male,12%,53%,56%,Door To Needle Time Within 60 Minutes,Panhandle
+10720,Female,59%,38%,34%,Door to CT Time Within 25 Minutes (All Strokes),Panhandle
+10720,Male,51%,38%,35%,Door to CT Time Within 25 Minutes (All Strokes),Panhandle
+10720,Female,15%,38%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,Panhandle
+10720,Male,36%,48%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,Panhandle
+13705,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13705,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13705,Female,96%,98%,98%,Early Antithrombotics (2 days),South
+13705,Male,100%,97%,98%,Early Antithrombotics (2 days),South
+13705,Female,97%,97%,98%,VTE Prophylaxis,South
+13705,Male,100%,97%,98%,VTE Prophylaxis,South
+13705,Female,100%,99%,99%,Antithrombotics at discharge,South
+13705,Male,100%,99%,99%,Antithrombotics at discharge,South
+13705,Female,86%,97%,97%,Anticoagulation for AF at discharge,South
+13705,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13705,Female,100%,98%,97%,Statins at Discharge,South
+13705,Male,100%,99%,98%,Statins at Discharge,South
+13705,Female,100%,97%,98%,Smoking Cessation Counseling,South
+13705,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13705,Female,94%,94%,93%,Defect Free Care,South
+13705,Male,100%,94%,93%,Defect Free Care,South
+13705,Female,17%,68%,52%,Door To Needle Time Within 60 Minutes,South
+13705,Male,75%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13705,Female,53%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13705,Male,50%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13705,Female,60%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13705,Male,67%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13710,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13710,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13710,Female,90%,98%,98%,Early Antithrombotics (2 days),South
+13710,Male,92%,97%,98%,Early Antithrombotics (2 days),South
+13710,Female,98%,97%,98%,VTE Prophylaxis,South
+13710,Male,96%,97%,98%,VTE Prophylaxis,South
+13710,Female,98%,99%,99%,Antithrombotics at discharge,South
+13710,Male,98%,99%,99%,Antithrombotics at discharge,South
+13710,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13710,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13710,Female,98%,98%,97%,Statins at Discharge,South
+13710,Male,98%,99%,98%,Statins at Discharge,South
+13710,Female,67%,97%,98%,Smoking Cessation Counseling,South
+13710,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13710,Female,83%,94%,93%,Defect Free Care,South
+13710,Male,89%,94%,93%,Defect Free Care,South
+13710,Female,33%,68%,52%,Door To Needle Time Within 60 Minutes,South
+13710,Male,20%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13710,Female,49%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13710,Male,40%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13710,Female,23%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13710,Male,42%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13732,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13732,Male,94%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13732,Female,99%,98%,98%,Early Antithrombotics (2 days),South
+13732,Male,100%,97%,98%,Early Antithrombotics (2 days),South
+13732,Female,99%,97%,98%,VTE Prophylaxis,South
+13732,Male,100%,97%,98%,VTE Prophylaxis,South
+13732,Female,98%,99%,99%,Antithrombotics at discharge,South
+13732,Male,100%,99%,99%,Antithrombotics at discharge,South
+13732,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13732,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13732,Female,98%,98%,97%,Statins at Discharge,South
+13732,Male,100%,99%,98%,Statins at Discharge,South
+13732,Female,100%,97%,98%,Smoking Cessation Counseling,South
+13732,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13732,Female,97%,94%,93%,Defect Free Care,South
+13732,Male,99%,94%,93%,Defect Free Care,South
+13732,Female,44%,68%,52%,Door To Needle Time Within 60 Minutes,South
+13732,Male,83%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13732,Female,65%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13732,Male,71%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13732,Female,40%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13732,Male,60%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13742,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13742,Male,83%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13742,Female,97%,98%,98%,Early Antithrombotics (2 days),South
+13742,Male,97%,97%,98%,Early Antithrombotics (2 days),South
+13742,Female,100%,97%,98%,VTE Prophylaxis,South
+13742,Male,98%,97%,98%,VTE Prophylaxis,South
+13742,Female,100%,99%,99%,Antithrombotics at discharge,South
+13742,Male,100%,99%,99%,Antithrombotics at discharge,South
+13742,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13742,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13742,Female,100%,98%,97%,Statins at Discharge,South
+13742,Male,100%,99%,98%,Statins at Discharge,South
+13742,Female,100%,97%,98%,Smoking Cessation Counseling,South
+13742,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13742,Female,98%,94%,93%,Defect Free Care,South
+13742,Male,93%,94%,93%,Defect Free Care,South
+13742,Female,100%,68%,52%,Door To Needle Time Within 60 Minutes,South
+13742,Male,40%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13742,Female,66%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13742,Male,55%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13742,Female,42%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13742,Male,25%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13779,Female,50%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13779,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13779,Female,98%,98%,98%,Early Antithrombotics (2 days),South
+13779,Male,100%,97%,98%,Early Antithrombotics (2 days),South
+13779,Female,100%,97%,98%,VTE Prophylaxis,South
+13779,Male,98%,97%,98%,VTE Prophylaxis,South
+13779,Female,100%,99%,99%,Antithrombotics at discharge,South
+13779,Male,100%,99%,99%,Antithrombotics at discharge,South
+13779,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13779,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13779,Female,100%,98%,97%,Statins at Discharge,South
+13779,Male,100%,99%,98%,Statins at Discharge,South
+13779,Female,100%,97%,98%,Smoking Cessation Counseling,South
+13779,Male,86%,98%,97%,Smoking Cessation Counseling,South
+13779,Female,97%,94%,93%,Defect Free Care,South
+13779,Male,95%,94%,93%,Defect Free Care,South
+13779,Male,33%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13779,Female,31%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13779,Male,38%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13779,Female,20%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13779,Male,43%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13781,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13781,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13781,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+13781,Male,98%,97%,98%,Early Antithrombotics (2 days),South
+13781,Female,100%,97%,98%,VTE Prophylaxis,South
+13781,Male,100%,97%,98%,VTE Prophylaxis,South
+13781,Female,100%,99%,99%,Antithrombotics at discharge,South
+13781,Male,100%,99%,99%,Antithrombotics at discharge,South
+13781,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13781,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13781,Female,100%,98%,97%,Statins at Discharge,South
+13781,Male,98%,99%,98%,Statins at Discharge,South
+13781,Female,100%,97%,98%,Smoking Cessation Counseling,South
+13781,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13781,Female,100%,94%,93%,Defect Free Care,South
+13781,Male,97%,94%,93%,Defect Free Care,South
+13781,Female,91%,68%,52%,Door To Needle Time Within 60 Minutes,South
+13781,Male,69%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13781,Female,68%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13781,Male,70%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13781,Female,48%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13781,Male,55%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13782,Female,97%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13782,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13782,Female,98%,98%,98%,Early Antithrombotics (2 days),South
+13782,Male,98%,97%,98%,Early Antithrombotics (2 days),South
+13782,Female,96%,97%,98%,VTE Prophylaxis,South
+13782,Male,97%,97%,98%,VTE Prophylaxis,South
+13782,Female,99%,99%,99%,Antithrombotics at discharge,South
+13782,Male,98%,99%,99%,Antithrombotics at discharge,South
+13782,Female,92%,97%,97%,Anticoagulation for AF at discharge,South
+13782,Male,95%,97%,97%,Anticoagulation for AF at discharge,South
+13782,Female,99%,98%,97%,Statins at Discharge,South
+13782,Male,99%,99%,98%,Statins at Discharge,South
+13782,Female,89%,97%,98%,Smoking Cessation Counseling,South
+13782,Male,96%,98%,97%,Smoking Cessation Counseling,South
+13782,Female,92%,94%,93%,Defect Free Care,South
+13782,Male,93%,94%,93%,Defect Free Care,South
+13782,Female,90%,68%,52%,Door To Needle Time Within 60 Minutes,South
+13782,Male,89%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13782,Female,59%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13782,Male,58%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13782,Female,61%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13782,Male,47%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13811,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13811,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13811,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+13811,Male,98%,97%,98%,Early Antithrombotics (2 days),South
+13811,Female,100%,97%,98%,VTE Prophylaxis,South
+13811,Male,95%,97%,98%,VTE Prophylaxis,South
+13811,Female,100%,99%,99%,Antithrombotics at discharge,South
+13811,Male,100%,99%,99%,Antithrombotics at discharge,South
+13811,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13811,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13811,Female,100%,98%,97%,Statins at Discharge,South
+13811,Male,100%,99%,98%,Statins at Discharge,South
+13811,Female,100%,97%,98%,Smoking Cessation Counseling,South
+13811,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13811,Female,100%,94%,93%,Defect Free Care,South
+13811,Male,94%,94%,93%,Defect Free Care,South
+13811,Female,100%,68%,52%,Door To Needle Time Within 60 Minutes,South
+13811,Male,100%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13811,Female,38%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13811,Male,33%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13811,Female,46%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13811,Male,47%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13815,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+13815,Male,100%,97%,98%,Early Antithrombotics (2 days),South
+13815,Female,97%,97%,98%,VTE Prophylaxis,South
+13815,Male,96%,97%,98%,VTE Prophylaxis,South
+13815,Female,100%,99%,99%,Antithrombotics at discharge,South
+13815,Male,100%,99%,99%,Antithrombotics at discharge,South
+13815,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13815,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13815,Female,95%,98%,97%,Statins at Discharge,South
+13815,Male,93%,99%,98%,Statins at Discharge,South
+13815,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13815,Female,94%,94%,93%,Defect Free Care,South
+13815,Male,92%,94%,93%,Defect Free Care,South
+13815,Female,11%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13815,Male,21%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13819,Female,96%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13819,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13819,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+13819,Male,100%,97%,98%,Early Antithrombotics (2 days),South
+13819,Female,99%,97%,98%,VTE Prophylaxis,South
+13819,Male,100%,97%,98%,VTE Prophylaxis,South
+13819,Female,100%,99%,99%,Antithrombotics at discharge,South
+13819,Male,100%,99%,99%,Antithrombotics at discharge,South
+13819,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13819,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13819,Female,100%,98%,97%,Statins at Discharge,South
+13819,Male,100%,99%,98%,Statins at Discharge,South
+13819,Female,100%,97%,98%,Smoking Cessation Counseling,South
+13819,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13819,Female,99%,94%,93%,Defect Free Care,South
+13819,Male,100%,94%,93%,Defect Free Care,South
+13819,Female,84%,68%,52%,Door To Needle Time Within 60 Minutes,South
+13819,Male,79%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13819,Female,72%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13819,Male,75%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13819,Female,46%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13819,Male,44%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13862,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13862,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+13862,Female,94%,98%,98%,Early Antithrombotics (2 days),South
+13862,Male,90%,97%,98%,Early Antithrombotics (2 days),South
+13862,Female,97%,97%,98%,VTE Prophylaxis,South
+13862,Male,97%,97%,98%,VTE Prophylaxis,South
+13862,Female,97%,99%,99%,Antithrombotics at discharge,South
+13862,Male,98%,99%,99%,Antithrombotics at discharge,South
+13862,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+13862,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+13862,Female,96%,98%,97%,Statins at Discharge,South
+13862,Male,96%,99%,98%,Statins at Discharge,South
+13862,Female,88%,97%,98%,Smoking Cessation Counseling,South
+13862,Male,100%,98%,97%,Smoking Cessation Counseling,South
+13862,Female,88%,94%,93%,Defect Free Care,South
+13862,Male,88%,94%,93%,Defect Free Care,South
+13862,Male,33%,66%,56%,Door To Needle Time Within 60 Minutes,South
+13862,Female,21%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+13862,Male,15%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+13862,Female,20%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+13862,Male,25%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+14462,Male,83%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14462,Female,96%,97%,98%,Early Antithrombotics (2 days),West Central
+14462,Male,95%,98%,98%,Early Antithrombotics (2 days),West Central
+14462,Female,98%,98%,98%,VTE Prophylaxis,West Central
+14462,Male,98%,97%,98%,VTE Prophylaxis,West Central
+14462,Female,98%,99%,99%,Antithrombotics at discharge,West Central
+14462,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+14462,Female,94%,97%,97%,Anticoagulation for AF at discharge,West Central
+14462,Male,91%,98%,97%,Anticoagulation for AF at discharge,West Central
+14462,Female,96%,96%,97%,Statins at Discharge,West Central
+14462,Male,99%,98%,98%,Statins at Discharge,West Central
+14462,Female,92%,99%,98%,Smoking Cessation Counseling,West Central
+14462,Male,91%,99%,97%,Smoking Cessation Counseling,West Central
+14462,Female,90%,92%,93%,Defect Free Care,West Central
+14462,Male,90%,93%,93%,Defect Free Care,West Central
+14462,Male,25%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+14462,Female,12%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14462,Male,14%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14462,Female,6%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14462,Male,32%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14562,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14562,Male,75%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14562,Female,97%,97%,98%,Early Antithrombotics (2 days),West Central
+14562,Male,100%,98%,98%,Early Antithrombotics (2 days),West Central
+14562,Female,100%,98%,98%,VTE Prophylaxis,West Central
+14562,Male,97%,97%,98%,VTE Prophylaxis,West Central
+14562,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+14562,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+14562,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+14562,Male,86%,98%,97%,Anticoagulation for AF at discharge,West Central
+14562,Female,100%,96%,97%,Statins at Discharge,West Central
+14562,Male,100%,98%,98%,Statins at Discharge,West Central
+14562,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+14562,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+14562,Female,98%,92%,93%,Defect Free Care,West Central
+14562,Male,91%,93%,93%,Defect Free Care,West Central
+14562,Female,80%,31%,52%,Door To Needle Time Within 60 Minutes,West Central
+14562,Male,67%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+14562,Female,21%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14562,Male,38%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14562,Female,31%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14562,Male,33%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14842,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14842,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14842,Female,99%,97%,98%,Early Antithrombotics (2 days),West Central
+14842,Male,99%,98%,98%,Early Antithrombotics (2 days),West Central
+14842,Female,100%,98%,98%,VTE Prophylaxis,West Central
+14842,Male,100%,97%,98%,VTE Prophylaxis,West Central
+14842,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+14842,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+14842,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+14842,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+14842,Female,100%,96%,97%,Statins at Discharge,West Central
+14842,Male,100%,98%,98%,Statins at Discharge,West Central
+14842,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+14842,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+14842,Female,99%,92%,93%,Defect Free Care,West Central
+14842,Male,99%,93%,93%,Defect Free Care,West Central
+14842,Female,38%,31%,52%,Door To Needle Time Within 60 Minutes,West Central
+14842,Male,27%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+14842,Female,22%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14842,Male,16%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14842,Female,27%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14842,Male,27%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14942,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14942,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+14942,Female,100%,97%,98%,Early Antithrombotics (2 days),West Central
+14942,Male,99%,98%,98%,Early Antithrombotics (2 days),West Central
+14942,Female,99%,98%,98%,VTE Prophylaxis,West Central
+14942,Male,99%,97%,98%,VTE Prophylaxis,West Central
+14942,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+14942,Male,99%,99%,99%,Antithrombotics at discharge,West Central
+14942,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+14942,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+14942,Female,96%,96%,97%,Statins at Discharge,West Central
+14942,Male,98%,98%,98%,Statins at Discharge,West Central
+14942,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+14942,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+14942,Female,97%,92%,93%,Defect Free Care,West Central
+14942,Male,98%,93%,93%,Defect Free Care,West Central
+14942,Female,43%,31%,52%,Door To Needle Time Within 60 Minutes,West Central
+14942,Male,67%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+14942,Female,51%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14942,Male,46%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+14942,Female,36%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+14942,Male,17%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+15144,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+15144,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+15144,Female,97%,97%,98%,Early Antithrombotics (2 days),West Central
+15144,Male,95%,98%,98%,Early Antithrombotics (2 days),West Central
+15144,Female,100%,98%,98%,VTE Prophylaxis,West Central
+15144,Male,98%,97%,98%,VTE Prophylaxis,West Central
+15144,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+15144,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+15144,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+15144,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+15144,Female,95%,96%,97%,Statins at Discharge,West Central
+15144,Male,100%,98%,98%,Statins at Discharge,West Central
+15144,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+15144,Male,96%,99%,97%,Smoking Cessation Counseling,West Central
+15144,Female,94%,92%,93%,Defect Free Care,West Central
+15144,Male,94%,93%,93%,Defect Free Care,West Central
+15144,Male,50%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+15144,Female,27%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+15144,Male,32%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+15144,Female,11%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+15144,Male,10%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+15322,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+15322,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+15322,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+15322,Male,98%,97%,98%,Early Antithrombotics (2 days),South
+15322,Female,97%,97%,98%,VTE Prophylaxis,South
+15322,Male,99%,97%,98%,VTE Prophylaxis,South
+15322,Female,100%,99%,99%,Antithrombotics at discharge,South
+15322,Male,99%,99%,99%,Antithrombotics at discharge,South
+15322,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+15322,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+15322,Female,100%,98%,97%,Statins at Discharge,South
+15322,Male,98%,99%,98%,Statins at Discharge,South
+15322,Female,100%,97%,98%,Smoking Cessation Counseling,South
+15322,Male,100%,98%,97%,Smoking Cessation Counseling,South
+15322,Female,97%,94%,93%,Defect Free Care,South
+15322,Male,96%,94%,93%,Defect Free Care,South
+15322,Female,81%,68%,52%,Door To Needle Time Within 60 Minutes,South
+15322,Male,77%,66%,56%,Door To Needle Time Within 60 Minutes,South
+15322,Female,59%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+15322,Male,52%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+15322,Female,68%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+15322,Male,49%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+15563,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+15563,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,
+15563,Female,97%,97%,98%,Early Antithrombotics (2 days),
+15563,Male,94%,98%,98%,Early Antithrombotics (2 days),
+15563,Female,98%,98%,98%,VTE Prophylaxis,
+15563,Male,99%,97%,98%,VTE Prophylaxis,
+15563,Female,96%,99%,99%,Antithrombotics at discharge,
+15563,Male,97%,99%,99%,Antithrombotics at discharge,
+15563,Female,81%,97%,97%,Anticoagulation for AF at discharge,
+15563,Male,100%,98%,97%,Anticoagulation for AF at discharge,
+15563,Female,94%,96%,97%,Statins at Discharge,
+15563,Male,98%,98%,98%,Statins at Discharge,
+15563,Female,100%,99%,98%,Smoking Cessation Counseling,
+15563,Male,80%,99%,97%,Smoking Cessation Counseling,
+15563,Female,87%,92%,93%,Defect Free Care,
+15563,Male,88%,93%,93%,Defect Free Care,
+15563,Female,20%,31%,52%,Door To Needle Time Within 60 Minutes,
+15563,Male,38%,43%,56%,Door To Needle Time Within 60 Minutes,
+15563,Female,18%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),
+15563,Male,30%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),
+15563,Female,21%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+15563,Male,31%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+15823,Female,100%,97%,98%,Early Antithrombotics (2 days),West Central
+15823,Male,92%,98%,98%,Early Antithrombotics (2 days),West Central
+15823,Female,100%,98%,98%,VTE Prophylaxis,West Central
+15823,Male,83%,97%,98%,VTE Prophylaxis,West Central
+15823,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+15823,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+15823,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+15823,Female,100%,96%,97%,Statins at Discharge,West Central
+15823,Male,100%,98%,98%,Statins at Discharge,West Central
+15823,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+15823,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+15823,Female,100%,92%,93%,Defect Free Care,West Central
+15823,Male,85%,93%,93%,Defect Free Care,West Central
+15823,Male,100%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+15823,Female,30%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+15823,Male,40%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+15823,Male,20%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+16462,Female,95%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+16462,Male,96%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+16462,Female,97%,98%,98%,Early Antithrombotics (2 days),South
+16462,Male,99%,97%,98%,Early Antithrombotics (2 days),South
+16462,Female,99%,97%,98%,VTE Prophylaxis,South
+16462,Male,99%,97%,98%,VTE Prophylaxis,South
+16462,Female,100%,99%,99%,Antithrombotics at discharge,South
+16462,Male,100%,99%,99%,Antithrombotics at discharge,South
+16462,Female,99%,97%,97%,Anticoagulation for AF at discharge,South
+16462,Male,99%,97%,97%,Anticoagulation for AF at discharge,South
+16462,Female,100%,98%,97%,Statins at Discharge,South
+16462,Male,98%,99%,98%,Statins at Discharge,South
+16462,Female,100%,97%,98%,Smoking Cessation Counseling,South
+16462,Male,100%,98%,97%,Smoking Cessation Counseling,South
+16462,Female,96%,94%,93%,Defect Free Care,South
+16462,Male,96%,94%,93%,Defect Free Care,South
+16462,Female,71%,68%,52%,Door To Needle Time Within 60 Minutes,South
+16462,Male,71%,66%,56%,Door To Needle Time Within 60 Minutes,South
+16462,Female,33%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+16462,Male,35%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+16462,Female,34%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+16462,Male,28%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+17962,Female,96%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+17962,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+17962,Female,95%,97%,98%,Early Antithrombotics (2 days),West Central
+17962,Male,97%,98%,98%,Early Antithrombotics (2 days),West Central
+17962,Female,99%,98%,98%,VTE Prophylaxis,West Central
+17962,Male,99%,97%,98%,VTE Prophylaxis,West Central
+17962,Female,99%,99%,99%,Antithrombotics at discharge,West Central
+17962,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+17962,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+17962,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+17962,Female,94%,96%,97%,Statins at Discharge,West Central
+17962,Male,96%,98%,98%,Statins at Discharge,West Central
+17962,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+17962,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+17962,Female,91%,92%,93%,Defect Free Care,West Central
+17962,Male,95%,93%,93%,Defect Free Care,West Central
+17962,Female,13%,31%,52%,Door To Needle Time Within 60 Minutes,West Central
+17962,Male,25%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+17962,Female,9%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+17962,Male,16%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+17962,Female,41%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+17962,Male,33%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+18185,Female,73%,86%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,Panhandle
+18185,Male,100%,94%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,Panhandle
+18185,Female,97%,98%,98%,Early Antithrombotics (2 days),Panhandle
+18185,Male,100%,99%,98%,Early Antithrombotics (2 days),Panhandle
+18185,Female,91%,95%,98%,VTE Prophylaxis,Panhandle
+18185,Male,93%,96%,98%,VTE Prophylaxis,Panhandle
+18185,Female,99%,99%,99%,Antithrombotics at discharge,Panhandle
+18185,Male,99%,99%,99%,Antithrombotics at discharge,Panhandle
+18185,Female,100%,97%,97%,Anticoagulation for AF at discharge,Panhandle
+18185,Male,100%,99%,97%,Anticoagulation for AF at discharge,Panhandle
+18185,Female,92%,95%,97%,Statins at Discharge,Panhandle
+18185,Male,100%,96%,98%,Statins at Discharge,Panhandle
+18185,Female,100%,98%,98%,Smoking Cessation Counseling,Panhandle
+18185,Male,100%,99%,97%,Smoking Cessation Counseling,Panhandle
+18185,Female,84%,90%,93%,Defect Free Care,Panhandle
+18185,Male,92%,92%,93%,Defect Free Care,Panhandle
+18185,Female,15%,41%,52%,Door To Needle Time Within 60 Minutes,Panhandle
+18185,Male,40%,53%,56%,Door To Needle Time Within 60 Minutes,Panhandle
+18185,Female,41%,38%,34%,Door to CT Time Within 25 Minutes (All Strokes),Panhandle
+18185,Male,50%,38%,35%,Door to CT Time Within 25 Minutes (All Strokes),Panhandle
+18185,Female,45%,38%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,Panhandle
+18185,Male,47%,48%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,Panhandle
+20889,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+20889,Male,80%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+20889,Female,94%,97%,98%,Early Antithrombotics (2 days),West Central
+20889,Male,97%,98%,98%,Early Antithrombotics (2 days),West Central
+20889,Female,100%,98%,98%,VTE Prophylaxis,West Central
+20889,Male,98%,97%,98%,VTE Prophylaxis,West Central
+20889,Female,94%,99%,99%,Antithrombotics at discharge,West Central
+20889,Male,97%,99%,99%,Antithrombotics at discharge,West Central
+20889,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+20889,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+20889,Female,100%,96%,97%,Statins at Discharge,West Central
+20889,Male,100%,98%,98%,Statins at Discharge,West Central
+20889,Female,88%,99%,98%,Smoking Cessation Counseling,West Central
+20889,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+20889,Female,87%,92%,93%,Defect Free Care,West Central
+20889,Male,91%,93%,93%,Defect Free Care,West Central
+20889,Male,50%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+20889,Female,63%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+20889,Male,53%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+20889,Female,18%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+20889,Male,39%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+20908,Female,85%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+20908,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+20908,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+20908,Male,99%,97%,98%,Early Antithrombotics (2 days),South
+20908,Female,95%,97%,98%,VTE Prophylaxis,South
+20908,Male,96%,97%,98%,VTE Prophylaxis,South
+20908,Female,99%,99%,99%,Antithrombotics at discharge,South
+20908,Male,97%,99%,99%,Antithrombotics at discharge,South
+20908,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+20908,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+20908,Female,98%,98%,97%,Statins at Discharge,South
+20908,Male,97%,99%,98%,Statins at Discharge,South
+20908,Female,100%,97%,98%,Smoking Cessation Counseling,South
+20908,Male,100%,98%,97%,Smoking Cessation Counseling,South
+20908,Female,92%,94%,93%,Defect Free Care,South
+20908,Male,91%,94%,93%,Defect Free Care,South
+20908,Female,41%,68%,52%,Door To Needle Time Within 60 Minutes,South
+20908,Male,41%,66%,56%,Door To Needle Time Within 60 Minutes,South
+20908,Female,38%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+20908,Male,44%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+20908,Female,34%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+20908,Male,30%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+22282,Female,89%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+22282,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+22282,Female,90%,98%,98%,Early Antithrombotics (2 days),South
+22282,Male,88%,97%,98%,Early Antithrombotics (2 days),South
+22282,Female,98%,97%,98%,VTE Prophylaxis,South
+22282,Male,98%,97%,98%,VTE Prophylaxis,South
+22282,Female,100%,99%,99%,Antithrombotics at discharge,South
+22282,Male,100%,99%,99%,Antithrombotics at discharge,South
+22282,Female,93%,97%,97%,Anticoagulation for AF at discharge,South
+22282,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+22282,Female,98%,98%,97%,Statins at Discharge,South
+22282,Male,99%,99%,98%,Statins at Discharge,South
+22282,Female,92%,97%,98%,Smoking Cessation Counseling,South
+22282,Male,84%,98%,97%,Smoking Cessation Counseling,South
+22282,Female,89%,94%,93%,Defect Free Care,South
+22282,Male,86%,94%,93%,Defect Free Care,South
+22282,Female,42%,68%,52%,Door To Needle Time Within 60 Minutes,South
+22282,Male,48%,66%,56%,Door To Needle Time Within 60 Minutes,South
+22282,Female,32%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+22282,Male,31%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+22282,Female,86%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+22282,Male,72%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+22865,Female,94%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+22865,Male,93%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+22865,Female,99%,98%,98%,Early Antithrombotics (2 days),East Central
+22865,Male,99%,99%,98%,Early Antithrombotics (2 days),East Central
+22865,Female,98%,98%,98%,VTE Prophylaxis,East Central
+22865,Male,96%,99%,98%,VTE Prophylaxis,East Central
+22865,Female,99%,100%,99%,Antithrombotics at discharge,East Central
+22865,Male,97%,100%,99%,Antithrombotics at discharge,East Central
+22865,Female,97%,98%,97%,Anticoagulation for AF at discharge,East Central
+22865,Male,97%,96%,97%,Anticoagulation for AF at discharge,East Central
+22865,Female,98%,98%,97%,Statins at Discharge,East Central
+22865,Male,88%,97%,98%,Statins at Discharge,East Central
+22865,Female,93%,96%,98%,Smoking Cessation Counseling,East Central
+22865,Male,97%,95%,97%,Smoking Cessation Counseling,East Central
+22865,Female,94%,94%,93%,Defect Free Care,East Central
+22865,Male,87%,94%,93%,Defect Free Care,East Central
+22865,Female,41%,38%,52%,Door To Needle Time Within 60 Minutes,East Central
+22865,Male,35%,50%,56%,Door To Needle Time Within 60 Minutes,East Central
+22865,Female,37%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+22865,Male,41%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+22865,Female,36%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+22865,Male,32%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+25382,Female,88%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+25382,Male,92%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+25382,Female,95%,98%,98%,Early Antithrombotics (2 days),East Central
+25382,Male,99%,99%,98%,Early Antithrombotics (2 days),East Central
+25382,Female,93%,98%,98%,VTE Prophylaxis,East Central
+25382,Male,96%,99%,98%,VTE Prophylaxis,East Central
+25382,Female,100%,100%,99%,Antithrombotics at discharge,East Central
+25382,Male,100%,100%,99%,Antithrombotics at discharge,East Central
+25382,Female,90%,98%,97%,Anticoagulation for AF at discharge,East Central
+25382,Male,100%,96%,97%,Anticoagulation for AF at discharge,East Central
+25382,Female,98%,98%,97%,Statins at Discharge,East Central
+25382,Male,92%,97%,98%,Statins at Discharge,East Central
+25382,Female,100%,96%,98%,Smoking Cessation Counseling,East Central
+25382,Male,95%,95%,97%,Smoking Cessation Counseling,East Central
+25382,Female,86%,94%,93%,Defect Free Care,East Central
+25382,Male,90%,94%,93%,Defect Free Care,East Central
+25382,Female,24%,38%,52%,Door To Needle Time Within 60 Minutes,East Central
+25382,Male,53%,50%,56%,Door To Needle Time Within 60 Minutes,East Central
+25382,Female,31%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+25382,Male,30%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+25382,Female,35%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+25382,Male,37%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+27785,Female,100%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+27785,Male,100%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+27785,Female,99%,98%,98%,Early Antithrombotics (2 days),East Central
+27785,Male,100%,99%,98%,Early Antithrombotics (2 days),East Central
+27785,Female,98%,98%,98%,VTE Prophylaxis,East Central
+27785,Male,98%,99%,98%,VTE Prophylaxis,East Central
+27785,Female,100%,100%,99%,Antithrombotics at discharge,East Central
+27785,Male,100%,100%,99%,Antithrombotics at discharge,East Central
+27785,Female,100%,98%,97%,Anticoagulation for AF at discharge,East Central
+27785,Male,88%,96%,97%,Anticoagulation for AF at discharge,East Central
+27785,Female,98%,98%,97%,Statins at Discharge,East Central
+27785,Male,98%,97%,98%,Statins at Discharge,East Central
+27785,Female,100%,96%,98%,Smoking Cessation Counseling,East Central
+27785,Male,100%,95%,97%,Smoking Cessation Counseling,East Central
+27785,Female,96%,94%,93%,Defect Free Care,East Central
+27785,Male,94%,94%,93%,Defect Free Care,East Central
+27785,Female,56%,38%,52%,Door To Needle Time Within 60 Minutes,East Central
+27785,Male,50%,50%,56%,Door To Needle Time Within 60 Minutes,East Central
+27785,Female,24%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+27785,Male,20%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+27785,Female,38%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+27785,Male,33%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+29944,Female,71%,86%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,North
+29944,Male,50%,94%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,North
+29944,Female,96%,98%,98%,Early Antithrombotics (2 days),North
+29944,Male,96%,99%,98%,Early Antithrombotics (2 days),North
+29944,Female,90%,95%,98%,VTE Prophylaxis,North
+29944,Male,86%,96%,98%,VTE Prophylaxis,North
+29944,Female,98%,99%,99%,Antithrombotics at discharge,North
+29944,Male,100%,99%,99%,Antithrombotics at discharge,North
+29944,Female,73%,97%,97%,Anticoagulation for AF at discharge,North
+29944,Male,88%,99%,97%,Anticoagulation for AF at discharge,North
+29944,Female,85%,95%,97%,Statins at Discharge,North
+29944,Male,86%,96%,98%,Statins at Discharge,North
+29944,Female,100%,98%,98%,Smoking Cessation Counseling,North
+29944,Male,100%,99%,97%,Smoking Cessation Counseling,North
+29944,Female,77%,90%,93%,Defect Free Care,North
+29944,Male,71%,92%,93%,Defect Free Care,North
+29944,Female,28%,38%,34%,Door to CT Time Within 25 Minutes (All Strokes),North
+29944,Male,20%,38%,35%,Door to CT Time Within 25 Minutes (All Strokes),North
+29944,Female,39%,38%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+29944,Male,8%,48%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+29984,Female,90%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+29984,Male,90%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,
+29984,Female,96%,98%,98%,Early Antithrombotics (2 days),
+29984,Male,98%,99%,98%,Early Antithrombotics (2 days),
+29984,Female,99%,98%,98%,VTE Prophylaxis,
+29984,Male,99%,99%,98%,VTE Prophylaxis,
+29984,Female,99%,100%,99%,Antithrombotics at discharge,
+29984,Male,100%,100%,99%,Antithrombotics at discharge,
+29984,Female,96%,98%,97%,Anticoagulation for AF at discharge,
+29984,Male,86%,96%,97%,Anticoagulation for AF at discharge,
+29984,Female,96%,98%,97%,Statins at Discharge,
+29984,Male,100%,97%,98%,Statins at Discharge,
+29984,Female,100%,96%,98%,Smoking Cessation Counseling,
+29984,Male,100%,95%,97%,Smoking Cessation Counseling,
+29984,Female,92%,94%,93%,Defect Free Care,
+29984,Male,95%,94%,93%,Defect Free Care,
+29984,Female,64%,38%,52%,Door To Needle Time Within 60 Minutes,
+29984,Male,61%,50%,56%,Door To Needle Time Within 60 Minutes,
+29984,Female,44%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),
+29984,Male,51%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),
+29984,Female,20%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+29984,Male,44%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+31167,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+31167,Male,83%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+31167,Female,95%,97%,98%,Early Antithrombotics (2 days),West Central
+31167,Male,98%,98%,98%,Early Antithrombotics (2 days),West Central
+31167,Female,85%,98%,98%,VTE Prophylaxis,West Central
+31167,Male,84%,97%,98%,VTE Prophylaxis,West Central
+31167,Female,96%,99%,99%,Antithrombotics at discharge,West Central
+31167,Male,95%,99%,99%,Antithrombotics at discharge,West Central
+31167,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+31167,Male,95%,98%,97%,Anticoagulation for AF at discharge,West Central
+31167,Female,89%,96%,97%,Statins at Discharge,West Central
+31167,Male,94%,98%,98%,Statins at Discharge,West Central
+31167,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+31167,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+31167,Female,74%,92%,93%,Defect Free Care,West Central
+31167,Male,75%,93%,93%,Defect Free Care,West Central
+31167,Female,48%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+31167,Male,41%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+31167,Female,29%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+31167,Male,33%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+31190,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+31190,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+31190,Female,99%,98%,98%,Early Antithrombotics (2 days),South
+31190,Male,95%,97%,98%,Early Antithrombotics (2 days),South
+31190,Female,99%,97%,98%,VTE Prophylaxis,South
+31190,Male,99%,97%,98%,VTE Prophylaxis,South
+31190,Female,99%,99%,99%,Antithrombotics at discharge,South
+31190,Male,100%,99%,99%,Antithrombotics at discharge,South
+31190,Female,95%,97%,97%,Anticoagulation for AF at discharge,South
+31190,Male,95%,97%,97%,Anticoagulation for AF at discharge,South
+31190,Female,92%,98%,97%,Statins at Discharge,South
+31190,Male,99%,99%,98%,Statins at Discharge,South
+31190,Female,100%,97%,98%,Smoking Cessation Counseling,South
+31190,Male,100%,98%,97%,Smoking Cessation Counseling,South
+31190,Female,93%,94%,93%,Defect Free Care,South
+31190,Male,94%,94%,93%,Defect Free Care,South
+31190,Female,60%,68%,52%,Door To Needle Time Within 60 Minutes,South
+31190,Male,73%,66%,56%,Door To Needle Time Within 60 Minutes,South
+31190,Female,32%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+31190,Male,40%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+31190,Female,17%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+31190,Male,47%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+31193,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+31193,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+31193,Female,100%,97%,98%,Early Antithrombotics (2 days),West Central
+31193,Male,100%,98%,98%,Early Antithrombotics (2 days),West Central
+31193,Female,100%,98%,98%,VTE Prophylaxis,West Central
+31193,Male,100%,97%,98%,VTE Prophylaxis,West Central
+31193,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+31193,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+31193,Female,91%,97%,97%,Anticoagulation for AF at discharge,West Central
+31193,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+31193,Female,97%,96%,97%,Statins at Discharge,West Central
+31193,Male,100%,98%,98%,Statins at Discharge,West Central
+31193,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+31193,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+31193,Female,96%,92%,93%,Defect Free Care,West Central
+31193,Male,100%,93%,93%,Defect Free Care,West Central
+31193,Male,25%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+31193,Female,100%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+31193,Male,89%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+31193,Female,18%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+31193,Male,35%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+31228,Female,50%,86%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+31228,Male,88%,94%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,
+31228,Female,98%,98%,98%,Early Antithrombotics (2 days),
+31228,Male,100%,99%,98%,Early Antithrombotics (2 days),
+31228,Female,99%,95%,98%,VTE Prophylaxis,
+31228,Male,95%,96%,98%,VTE Prophylaxis,
+31228,Female,93%,99%,99%,Antithrombotics at discharge,
+31228,Male,95%,99%,99%,Antithrombotics at discharge,
+31228,Female,100%,97%,97%,Anticoagulation for AF at discharge,
+31228,Male,100%,99%,97%,Anticoagulation for AF at discharge,
+31228,Female,88%,95%,97%,Statins at Discharge,
+31228,Male,86%,96%,98%,Statins at Discharge,
+31228,Female,100%,98%,98%,Smoking Cessation Counseling,
+31228,Male,94%,99%,97%,Smoking Cessation Counseling,
+31228,Female,87%,90%,93%,Defect Free Care,
+31228,Male,87%,92%,93%,Defect Free Care,
+31228,Female,40%,41%,52%,Door To Needle Time Within 60 Minutes,
+31228,Male,38%,53%,56%,Door To Needle Time Within 60 Minutes,
+31228,Female,16%,38%,34%,Door to CT Time Within 25 Minutes (All Strokes),
+31228,Male,30%,38%,35%,Door to CT Time Within 25 Minutes (All Strokes),
+31228,Female,47%,38%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+31228,Male,50%,48%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+32647,Female,92%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+32647,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+32647,Female,99%,98%,98%,Early Antithrombotics (2 days),South
+32647,Male,100%,97%,98%,Early Antithrombotics (2 days),South
+32647,Female,100%,97%,98%,VTE Prophylaxis,South
+32647,Male,100%,97%,98%,VTE Prophylaxis,South
+32647,Female,100%,99%,99%,Antithrombotics at discharge,South
+32647,Male,100%,99%,99%,Antithrombotics at discharge,South
+32647,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+32647,Male,94%,97%,97%,Anticoagulation for AF at discharge,South
+32647,Female,99%,98%,97%,Statins at Discharge,South
+32647,Male,100%,99%,98%,Statins at Discharge,South
+32647,Female,100%,97%,98%,Smoking Cessation Counseling,South
+32647,Male,100%,98%,97%,Smoking Cessation Counseling,South
+32647,Female,97%,94%,93%,Defect Free Care,South
+32647,Male,99%,94%,93%,Defect Free Care,South
+32647,Female,86%,68%,52%,Door To Needle Time Within 60 Minutes,South
+32647,Male,75%,66%,56%,Door To Needle Time Within 60 Minutes,South
+32647,Female,32%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+32647,Male,40%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+32647,Female,52%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+32647,Male,37%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+33568,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+33568,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+33568,Female,95%,98%,98%,Early Antithrombotics (2 days),South
+33568,Male,94%,97%,98%,Early Antithrombotics (2 days),South
+33568,Female,96%,97%,98%,VTE Prophylaxis,South
+33568,Male,93%,97%,98%,VTE Prophylaxis,South
+33568,Female,100%,99%,99%,Antithrombotics at discharge,South
+33568,Male,99%,99%,99%,Antithrombotics at discharge,South
+33568,Female,90%,97%,97%,Anticoagulation for AF at discharge,South
+33568,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+33568,Female,95%,98%,97%,Statins at Discharge,South
+33568,Male,99%,99%,98%,Statins at Discharge,South
+33568,Female,100%,97%,98%,Smoking Cessation Counseling,South
+33568,Male,100%,98%,97%,Smoking Cessation Counseling,South
+33568,Female,88%,94%,93%,Defect Free Care,South
+33568,Male,88%,94%,93%,Defect Free Care,South
+33568,Female,58%,68%,52%,Door To Needle Time Within 60 Minutes,South
+33568,Male,50%,66%,56%,Door To Needle Time Within 60 Minutes,South
+33568,Female,26%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+33568,Male,22%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+33568,Female,41%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+33568,Male,48%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+33607,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+33607,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+33607,Female,97%,98%,98%,Early Antithrombotics (2 days),South
+33607,Male,100%,97%,98%,Early Antithrombotics (2 days),South
+33607,Female,100%,97%,98%,VTE Prophylaxis,South
+33607,Male,98%,97%,98%,VTE Prophylaxis,South
+33607,Female,100%,99%,99%,Antithrombotics at discharge,South
+33607,Male,100%,99%,99%,Antithrombotics at discharge,South
+33607,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+33607,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+33607,Female,100%,98%,97%,Statins at Discharge,South
+33607,Male,100%,99%,98%,Statins at Discharge,South
+33607,Female,100%,97%,98%,Smoking Cessation Counseling,South
+33607,Male,100%,98%,97%,Smoking Cessation Counseling,South
+33607,Female,98%,94%,93%,Defect Free Care,South
+33607,Male,98%,94%,93%,Defect Free Care,South
+33607,Female,78%,68%,52%,Door To Needle Time Within 60 Minutes,South
+33607,Male,71%,66%,56%,Door To Needle Time Within 60 Minutes,South
+33607,Female,33%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+33607,Male,43%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+33607,Female,69%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+33607,Male,55%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+34227,Female,80%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34227,Male,78%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34227,Female,96%,98%,98%,Early Antithrombotics (2 days),
+34227,Male,100%,99%,98%,Early Antithrombotics (2 days),
+34227,Female,99%,98%,98%,VTE Prophylaxis,
+34227,Male,100%,99%,98%,VTE Prophylaxis,
+34227,Female,100%,100%,99%,Antithrombotics at discharge,
+34227,Male,100%,100%,99%,Antithrombotics at discharge,
+34227,Female,100%,98%,97%,Anticoagulation for AF at discharge,
+34227,Male,100%,96%,97%,Anticoagulation for AF at discharge,
+34227,Female,100%,98%,97%,Statins at Discharge,
+34227,Male,98%,97%,98%,Statins at Discharge,
+34227,Female,93%,96%,98%,Smoking Cessation Counseling,
+34227,Male,100%,95%,97%,Smoking Cessation Counseling,
+34227,Female,92%,94%,93%,Defect Free Care,
+34227,Male,96%,94%,93%,Defect Free Care,
+34227,Female,80%,38%,52%,Door To Needle Time Within 60 Minutes,
+34227,Male,88%,50%,56%,Door To Needle Time Within 60 Minutes,
+34227,Female,21%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),
+34227,Male,20%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),
+34227,Female,21%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+34227,Male,29%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+34271,Female,100%,86%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34271,Male,100%,94%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,
+34271,Female,98%,98%,98%,Early Antithrombotics (2 days),
+34271,Male,100%,99%,98%,Early Antithrombotics (2 days),
+34271,Female,94%,95%,98%,VTE Prophylaxis,
+34271,Male,97%,96%,98%,VTE Prophylaxis,
+34271,Female,100%,99%,99%,Antithrombotics at discharge,
+34271,Male,100%,99%,99%,Antithrombotics at discharge,
+34271,Female,100%,97%,97%,Anticoagulation for AF at discharge,
+34271,Male,100%,99%,97%,Anticoagulation for AF at discharge,
+34271,Female,97%,95%,97%,Statins at Discharge,
+34271,Male,96%,96%,98%,Statins at Discharge,
+34271,Female,100%,98%,98%,Smoking Cessation Counseling,
+34271,Male,100%,99%,97%,Smoking Cessation Counseling,
+34271,Female,89%,90%,93%,Defect Free Care,
+34271,Male,95%,92%,93%,Defect Free Care,
+34271,Male,100%,53%,56%,Door To Needle Time Within 60 Minutes,
+34271,Female,23%,38%,34%,Door to CT Time Within 25 Minutes (All Strokes),
+34271,Male,33%,38%,35%,Door to CT Time Within 25 Minutes (All Strokes),
+34271,Female,11%,38%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+34271,Male,25%,48%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+35507,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+35507,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+35507,Female,96%,97%,98%,Early Antithrombotics (2 days),West Central
+35507,Male,100%,98%,98%,Early Antithrombotics (2 days),West Central
+35507,Female,99%,98%,98%,VTE Prophylaxis,West Central
+35507,Male,99%,97%,98%,VTE Prophylaxis,West Central
+35507,Female,98%,99%,99%,Antithrombotics at discharge,West Central
+35507,Male,99%,99%,99%,Antithrombotics at discharge,West Central
+35507,Female,98%,97%,97%,Anticoagulation for AF at discharge,West Central
+35507,Male,98%,98%,97%,Anticoagulation for AF at discharge,West Central
+35507,Female,98%,96%,97%,Statins at Discharge,West Central
+35507,Male,99%,98%,98%,Statins at Discharge,West Central
+35507,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+35507,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+35507,Female,94%,92%,93%,Defect Free Care,West Central
+35507,Male,99%,93%,93%,Defect Free Care,West Central
+35507,Female,76%,31%,52%,Door To Needle Time Within 60 Minutes,West Central
+35507,Male,70%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+35507,Female,38%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+35507,Male,44%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+35507,Female,40%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+35507,Male,50%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+37214,Female,92%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+37214,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+37214,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+37214,Male,98%,97%,98%,Early Antithrombotics (2 days),South
+37214,Female,98%,97%,98%,VTE Prophylaxis,South
+37214,Male,99%,97%,98%,VTE Prophylaxis,South
+37214,Female,100%,99%,99%,Antithrombotics at discharge,South
+37214,Male,100%,99%,99%,Antithrombotics at discharge,South
+37214,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+37214,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+37214,Female,100%,98%,97%,Statins at Discharge,South
+37214,Male,99%,99%,98%,Statins at Discharge,South
+37214,Female,100%,97%,98%,Smoking Cessation Counseling,South
+37214,Male,100%,98%,97%,Smoking Cessation Counseling,South
+37214,Female,98%,94%,93%,Defect Free Care,South
+37214,Male,97%,94%,93%,Defect Free Care,South
+37214,Female,47%,68%,52%,Door To Needle Time Within 60 Minutes,South
+37214,Male,29%,66%,56%,Door To Needle Time Within 60 Minutes,South
+37214,Female,38%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+37214,Male,25%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+37214,Female,48%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+37214,Male,54%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+37454,Female,100%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37454,Male,100%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37454,Female,98%,98%,98%,Early Antithrombotics (2 days),East Central
+37454,Male,100%,99%,98%,Early Antithrombotics (2 days),East Central
+37454,Female,98%,98%,98%,VTE Prophylaxis,East Central
+37454,Male,99%,99%,98%,VTE Prophylaxis,East Central
+37454,Female,100%,100%,99%,Antithrombotics at discharge,East Central
+37454,Male,98%,100%,99%,Antithrombotics at discharge,East Central
+37454,Female,94%,98%,97%,Anticoagulation for AF at discharge,East Central
+37454,Male,100%,96%,97%,Anticoagulation for AF at discharge,East Central
+37454,Female,99%,98%,97%,Statins at Discharge,East Central
+37454,Male,99%,97%,98%,Statins at Discharge,East Central
+37454,Female,90%,96%,98%,Smoking Cessation Counseling,East Central
+37454,Male,94%,95%,97%,Smoking Cessation Counseling,East Central
+37454,Female,95%,94%,93%,Defect Free Care,East Central
+37454,Male,95%,94%,93%,Defect Free Care,East Central
+37454,Male,36%,50%,56%,Door To Needle Time Within 60 Minutes,East Central
+37454,Female,9%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37454,Male,7%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37454,Female,6%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37454,Male,73%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37474,Female,93%,98%,98%,Early Antithrombotics (2 days),East Central
+37474,Male,100%,99%,98%,Early Antithrombotics (2 days),East Central
+37474,Female,100%,98%,98%,VTE Prophylaxis,East Central
+37474,Male,100%,99%,98%,VTE Prophylaxis,East Central
+37474,Female,92%,100%,99%,Antithrombotics at discharge,East Central
+37474,Male,100%,100%,99%,Antithrombotics at discharge,East Central
+37474,Female,100%,98%,97%,Anticoagulation for AF at discharge,East Central
+37474,Female,100%,98%,97%,Statins at Discharge,East Central
+37474,Male,100%,97%,98%,Statins at Discharge,East Central
+37474,Female,100%,96%,98%,Smoking Cessation Counseling,East Central
+37474,Male,100%,95%,97%,Smoking Cessation Counseling,East Central
+37474,Female,93%,94%,93%,Defect Free Care,East Central
+37474,Male,100%,94%,93%,Defect Free Care,East Central
+37474,Female,8%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37475,Female,75%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37475,Female,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37475,Male,98%,99%,98%,Early Antithrombotics (2 days),East Central
+37475,Female,100%,98%,98%,VTE Prophylaxis,East Central
+37475,Male,96%,99%,98%,VTE Prophylaxis,East Central
+37475,Female,100%,100%,99%,Antithrombotics at discharge,East Central
+37475,Male,100%,100%,99%,Antithrombotics at discharge,East Central
+37475,Female,100%,98%,97%,Anticoagulation for AF at discharge,East Central
+37475,Male,100%,96%,97%,Anticoagulation for AF at discharge,East Central
+37475,Female,97%,98%,97%,Statins at Discharge,East Central
+37475,Male,100%,97%,98%,Statins at Discharge,East Central
+37475,Female,100%,96%,98%,Smoking Cessation Counseling,East Central
+37475,Male,100%,95%,97%,Smoking Cessation Counseling,East Central
+37475,Female,96%,94%,93%,Defect Free Care,East Central
+37475,Male,96%,94%,93%,Defect Free Care,East Central
+37475,Female,4%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37475,Male,13%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37475,Female,63%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37475,Male,17%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37476,Female,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37476,Male,100%,99%,98%,Early Antithrombotics (2 days),East Central
+37476,Female,98%,98%,98%,VTE Prophylaxis,East Central
+37476,Male,100%,99%,98%,VTE Prophylaxis,East Central
+37476,Female,100%,100%,99%,Antithrombotics at discharge,East Central
+37476,Male,100%,100%,99%,Antithrombotics at discharge,East Central
+37476,Female,100%,98%,97%,Anticoagulation for AF at discharge,East Central
+37476,Male,83%,96%,97%,Anticoagulation for AF at discharge,East Central
+37476,Female,93%,98%,97%,Statins at Discharge,East Central
+37476,Male,93%,97%,98%,Statins at Discharge,East Central
+37476,Female,100%,96%,98%,Smoking Cessation Counseling,East Central
+37476,Male,100%,95%,97%,Smoking Cessation Counseling,East Central
+37476,Female,94%,94%,93%,Defect Free Care,East Central
+37476,Male,91%,94%,93%,Defect Free Care,East Central
+37476,Female,4%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37476,Male,3%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37494,Female,97%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37494,Male,98%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37494,Female,99%,98%,98%,Early Antithrombotics (2 days),East Central
+37494,Male,98%,99%,98%,Early Antithrombotics (2 days),East Central
+37494,Female,100%,98%,98%,VTE Prophylaxis,East Central
+37494,Male,100%,99%,98%,VTE Prophylaxis,East Central
+37494,Female,100%,100%,99%,Antithrombotics at discharge,East Central
+37494,Male,100%,100%,99%,Antithrombotics at discharge,East Central
+37494,Female,100%,98%,97%,Anticoagulation for AF at discharge,East Central
+37494,Male,100%,96%,97%,Anticoagulation for AF at discharge,East Central
+37494,Female,100%,98%,97%,Statins at Discharge,East Central
+37494,Male,100%,97%,98%,Statins at Discharge,East Central
+37494,Female,94%,96%,98%,Smoking Cessation Counseling,East Central
+37494,Male,89%,95%,97%,Smoking Cessation Counseling,East Central
+37494,Female,98%,94%,93%,Defect Free Care,East Central
+37494,Male,96%,94%,93%,Defect Free Care,East Central
+37494,Female,40%,38%,52%,Door To Needle Time Within 60 Minutes,East Central
+37494,Male,54%,50%,56%,Door To Needle Time Within 60 Minutes,East Central
+37494,Female,28%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37494,Male,26%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37494,Female,38%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37494,Male,45%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37495,Female,100%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37495,Male,100%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37495,Female,97%,98%,98%,Early Antithrombotics (2 days),East Central
+37495,Male,97%,99%,98%,Early Antithrombotics (2 days),East Central
+37495,Female,100%,98%,98%,VTE Prophylaxis,East Central
+37495,Male,100%,99%,98%,VTE Prophylaxis,East Central
+37495,Female,98%,100%,99%,Antithrombotics at discharge,East Central
+37495,Male,100%,100%,99%,Antithrombotics at discharge,East Central
+37495,Female,100%,98%,97%,Anticoagulation for AF at discharge,East Central
+37495,Male,100%,96%,97%,Anticoagulation for AF at discharge,East Central
+37495,Female,100%,98%,97%,Statins at Discharge,East Central
+37495,Male,100%,97%,98%,Statins at Discharge,East Central
+37495,Female,100%,96%,98%,Smoking Cessation Counseling,East Central
+37495,Male,89%,95%,97%,Smoking Cessation Counseling,East Central
+37495,Female,96%,94%,93%,Defect Free Care,East Central
+37495,Male,94%,94%,93%,Defect Free Care,East Central
+37495,Female,33%,38%,52%,Door To Needle Time Within 60 Minutes,East Central
+37495,Female,3%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37495,Male,4%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37495,Female,21%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37495,Male,30%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37496,Female,100%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37496,Male,100%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,East Central
+37496,Female,100%,98%,98%,Early Antithrombotics (2 days),East Central
+37496,Male,100%,99%,98%,Early Antithrombotics (2 days),East Central
+37496,Female,100%,98%,98%,VTE Prophylaxis,East Central
+37496,Male,97%,99%,98%,VTE Prophylaxis,East Central
+37496,Female,100%,100%,99%,Antithrombotics at discharge,East Central
+37496,Male,100%,100%,99%,Antithrombotics at discharge,East Central
+37496,Female,100%,98%,97%,Anticoagulation for AF at discharge,East Central
+37496,Male,100%,96%,97%,Anticoagulation for AF at discharge,East Central
+37496,Female,96%,98%,97%,Statins at Discharge,East Central
+37496,Male,95%,97%,98%,Statins at Discharge,East Central
+37496,Female,100%,96%,98%,Smoking Cessation Counseling,East Central
+37496,Male,100%,95%,97%,Smoking Cessation Counseling,East Central
+37496,Female,97%,94%,93%,Defect Free Care,East Central
+37496,Male,94%,94%,93%,Defect Free Care,East Central
+37496,Female,50%,38%,52%,Door To Needle Time Within 60 Minutes,East Central
+37496,Male,100%,50%,56%,Door To Needle Time Within 60 Minutes,East Central
+37496,Female,19%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37496,Male,34%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),East Central
+37496,Female,67%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37496,Male,60%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,East Central
+37556,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+37556,Female,95%,97%,98%,Early Antithrombotics (2 days),West Central
+37556,Male,97%,98%,98%,Early Antithrombotics (2 days),West Central
+37556,Female,95%,98%,98%,VTE Prophylaxis,West Central
+37556,Male,95%,97%,98%,VTE Prophylaxis,West Central
+37556,Female,98%,99%,99%,Antithrombotics at discharge,West Central
+37556,Male,95%,99%,99%,Antithrombotics at discharge,West Central
+37556,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+37556,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+37556,Female,97%,96%,97%,Statins at Discharge,West Central
+37556,Male,96%,98%,98%,Statins at Discharge,West Central
+37556,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+37556,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+37556,Female,86%,92%,93%,Defect Free Care,West Central
+37556,Male,90%,93%,93%,Defect Free Care,West Central
+37556,Male,50%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+37556,Female,20%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+37556,Male,22%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+37556,Male,22%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+37818,Female,89%,68%,68%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+37818,Male,100%,66%,66%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+37818,Female,83%,83%,83%,Early Antithrombotics (2 days),PR
+37818,Male,88%,86%,86%,Early Antithrombotics (2 days),PR
+37818,Female,89%,79%,79%,VTE Prophylaxis,PR
+37818,Male,90%,79%,79%,VTE Prophylaxis,PR
+37818,Female,96%,93%,93%,Antithrombotics at discharge,PR
+37818,Male,96%,93%,93%,Antithrombotics at discharge,PR
+37818,Female,100%,90%,90%,Anticoagulation for AF at discharge,PR
+37818,Male,94%,94%,94%,Anticoagulation for AF at discharge,PR
+37818,Female,85%,83%,83%,Statins at Discharge,PR
+37818,Male,90%,84%,84%,Statins at Discharge,PR
+37818,Female,100%,100%,100%,Smoking Cessation Counseling,PR
+37818,Male,100%,94%,94%,Smoking Cessation Counseling,PR
+37818,Female,72%,63%,63%,Defect Free Care,PR
+37818,Male,77%,64%,64%,Defect Free Care,PR
+37818,Female,47%,50%,50%,Door To Needle Time Within 60 Minutes,PR
+37818,Male,53%,48%,48%,Door To Needle Time Within 60 Minutes,PR
+37818,Female,13%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+37818,Male,24%,31%,31%,Door to CT Time Within 25 Minutes (All Strokes),PR
+37818,Female,50%,56%,56%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+37818,Male,45%,53%,53%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+37896,Female,97%,86%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,North
+37896,Male,97%,94%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,North
+37896,Female,100%,98%,98%,Early Antithrombotics (2 days),North
+37896,Male,98%,99%,98%,Early Antithrombotics (2 days),North
+37896,Female,96%,95%,98%,VTE Prophylaxis,North
+37896,Male,98%,96%,98%,VTE Prophylaxis,North
+37896,Female,99%,99%,99%,Antithrombotics at discharge,North
+37896,Male,100%,99%,99%,Antithrombotics at discharge,North
+37896,Female,100%,97%,97%,Anticoagulation for AF at discharge,North
+37896,Male,100%,99%,97%,Anticoagulation for AF at discharge,North
+37896,Female,98%,95%,97%,Statins at Discharge,North
+37896,Male,97%,96%,98%,Statins at Discharge,North
+37896,Female,95%,98%,98%,Smoking Cessation Counseling,North
+37896,Male,98%,99%,97%,Smoking Cessation Counseling,North
+37896,Female,94%,90%,93%,Defect Free Care,North
+37896,Male,95%,92%,93%,Defect Free Care,North
+37896,Female,62%,41%,52%,Door To Needle Time Within 60 Minutes,North
+37896,Male,70%,53%,56%,Door To Needle Time Within 60 Minutes,North
+37896,Female,34%,38%,34%,Door to CT Time Within 25 Minutes (All Strokes),North
+37896,Male,32%,38%,35%,Door to CT Time Within 25 Minutes (All Strokes),North
+37896,Female,49%,38%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+37896,Male,62%,48%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,North
+40934,Female,67%,86%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+40934,Male,60%,94%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,
+40934,Female,97%,98%,98%,Early Antithrombotics (2 days),
+40934,Male,97%,99%,98%,Early Antithrombotics (2 days),
+40934,Female,90%,95%,98%,VTE Prophylaxis,
+40934,Male,93%,96%,98%,VTE Prophylaxis,
+40934,Female,97%,99%,99%,Antithrombotics at discharge,
+40934,Male,100%,99%,99%,Antithrombotics at discharge,
+40934,Female,100%,97%,97%,Anticoagulation for AF at discharge,
+40934,Male,100%,99%,97%,Anticoagulation for AF at discharge,
+40934,Female,93%,95%,97%,Statins at Discharge,
+40934,Male,96%,96%,98%,Statins at Discharge,
+40934,Female,100%,98%,98%,Smoking Cessation Counseling,
+40934,Male,100%,99%,97%,Smoking Cessation Counseling,
+40934,Female,80%,90%,93%,Defect Free Care,
+40934,Male,86%,92%,93%,Defect Free Care,
+40934,Female,25%,41%,52%,Door To Needle Time Within 60 Minutes,
+40934,Male,67%,53%,56%,Door To Needle Time Within 60 Minutes,
+40934,Female,40%,38%,34%,Door to CT Time Within 25 Minutes (All Strokes),
+40934,Male,31%,38%,35%,Door to CT Time Within 25 Minutes (All Strokes),
+40934,Female,27%,38%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+40934,Male,55%,48%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+43254,Female,82%,68%,68%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+43254,Male,93%,66%,66%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+43254,Female,100%,83%,83%,Early Antithrombotics (2 days),PR
+43254,Male,89%,86%,86%,Early Antithrombotics (2 days),PR
+43254,Female,87%,79%,79%,VTE Prophylaxis,PR
+43254,Male,87%,79%,79%,VTE Prophylaxis,PR
+43254,Female,100%,93%,93%,Antithrombotics at discharge,PR
+43254,Male,100%,93%,93%,Antithrombotics at discharge,PR
+43254,Female,100%,90%,90%,Anticoagulation for AF at discharge,PR
+43254,Male,100%,94%,94%,Anticoagulation for AF at discharge,PR
+43254,Female,100%,83%,83%,Statins at Discharge,PR
+43254,Male,100%,84%,84%,Statins at Discharge,PR
+43254,Female,100%,100%,100%,Smoking Cessation Counseling,PR
+43254,Male,100%,94%,94%,Smoking Cessation Counseling,PR
+43254,Female,77%,63%,63%,Defect Free Care,PR
+43254,Male,82%,64%,64%,Defect Free Care,PR
+43254,Female,48%,50%,50%,Door To Needle Time Within 60 Minutes,PR
+43254,Male,55%,48%,48%,Door To Needle Time Within 60 Minutes,PR
+43254,Female,97%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+43254,Male,81%,31%,31%,Door to CT Time Within 25 Minutes (All Strokes),PR
+43254,Female,92%,56%,56%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+43254,Male,88%,53%,53%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+45054,Male,25%,66%,66%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+45054,Female,56%,83%,83%,Early Antithrombotics (2 days),PR
+45054,Male,53%,86%,86%,Early Antithrombotics (2 days),PR
+45054,Female,71%,79%,79%,VTE Prophylaxis,PR
+45054,Male,41%,79%,79%,VTE Prophylaxis,PR
+45054,Female,70%,93%,93%,Antithrombotics at discharge,PR
+45054,Male,84%,93%,93%,Antithrombotics at discharge,PR
+45054,Female,67%,90%,90%,Anticoagulation for AF at discharge,PR
+45054,Male,100%,94%,94%,Anticoagulation for AF at discharge,PR
+45054,Female,67%,83%,83%,Statins at Discharge,PR
+45054,Male,60%,84%,84%,Statins at Discharge,PR
+45054,Female,100%,100%,100%,Smoking Cessation Counseling,PR
+45054,Male,33%,94%,94%,Smoking Cessation Counseling,PR
+45054,Female,32%,63%,63%,Defect Free Care,PR
+45054,Male,17%,64%,64%,Defect Free Care,PR
+45054,Female,18%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+45054,Male,52%,31%,31%,Door to CT Time Within 25 Minutes (All Strokes),PR
+45054,Male,50%,53%,53%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+47534,Female,100%,95%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+47534,Male,100%,95%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,West Central
+47534,Female,100%,97%,98%,Early Antithrombotics (2 days),West Central
+47534,Male,100%,98%,98%,Early Antithrombotics (2 days),West Central
+47534,Female,98%,98%,98%,VTE Prophylaxis,West Central
+47534,Male,92%,97%,98%,VTE Prophylaxis,West Central
+47534,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+47534,Male,100%,99%,99%,Antithrombotics at discharge,West Central
+47534,Female,100%,97%,97%,Anticoagulation for AF at discharge,West Central
+47534,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+47534,Female,100%,96%,97%,Statins at Discharge,West Central
+47534,Male,97%,98%,98%,Statins at Discharge,West Central
+47534,Female,100%,99%,98%,Smoking Cessation Counseling,West Central
+47534,Male,100%,99%,97%,Smoking Cessation Counseling,West Central
+47534,Female,98%,92%,93%,Defect Free Care,West Central
+47534,Male,90%,93%,93%,Defect Free Care,West Central
+47534,Male,60%,43%,56%,Door To Needle Time Within 60 Minutes,West Central
+47534,Female,93%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+47534,Male,84%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+47534,Female,33%,29%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+47534,Male,28%,32%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,West Central
+47874,Female,100%,97%,98%,Early Antithrombotics (2 days),West Central
+47874,Male,100%,98%,98%,Early Antithrombotics (2 days),West Central
+47874,Female,100%,98%,98%,VTE Prophylaxis,West Central
+47874,Male,83%,97%,98%,VTE Prophylaxis,West Central
+47874,Female,100%,99%,99%,Antithrombotics at discharge,West Central
+47874,Male,83%,99%,99%,Antithrombotics at discharge,West Central
+47874,Male,100%,98%,97%,Anticoagulation for AF at discharge,West Central
+47874,Male,83%,98%,98%,Statins at Discharge,West Central
+47874,Male,67%,93%,93%,Defect Free Care,West Central
+47874,Female,100%,30%,34%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+47874,Male,50%,34%,35%,Door to CT Time Within 25 Minutes (All Strokes),West Central
+51154,Female,100%,68%,68%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+51154,Male,100%,66%,66%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+51154,Female,92%,83%,83%,Early Antithrombotics (2 days),PR
+51154,Male,93%,86%,86%,Early Antithrombotics (2 days),PR
+51154,Female,78%,79%,79%,VTE Prophylaxis,PR
+51154,Male,70%,79%,79%,VTE Prophylaxis,PR
+51154,Female,99%,93%,93%,Antithrombotics at discharge,PR
+51154,Male,98%,93%,93%,Antithrombotics at discharge,PR
+51154,Female,92%,90%,90%,Anticoagulation for AF at discharge,PR
+51154,Male,100%,94%,94%,Anticoagulation for AF at discharge,PR
+51154,Female,85%,83%,83%,Statins at Discharge,PR
+51154,Male,86%,84%,84%,Statins at Discharge,PR
+51154,Female,100%,100%,100%,Smoking Cessation Counseling,PR
+51154,Male,100%,94%,94%,Smoking Cessation Counseling,PR
+51154,Female,69%,63%,63%,Defect Free Care,PR
+51154,Male,64%,64%,64%,Defect Free Care,PR
+51154,Female,67%,50%,50%,Door To Needle Time Within 60 Minutes,PR
+51154,Male,50%,48%,48%,Door To Needle Time Within 60 Minutes,PR
+51154,Female,14%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+51154,Male,18%,31%,31%,Door to CT Time Within 25 Minutes (All Strokes),PR
+51154,Female,73%,56%,56%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+51154,Male,81%,53%,53%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+57095,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57095,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57095,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+57095,Male,98%,97%,98%,Early Antithrombotics (2 days),South
+57095,Female,96%,97%,98%,VTE Prophylaxis,South
+57095,Male,95%,97%,98%,VTE Prophylaxis,South
+57095,Female,98%,99%,99%,Antithrombotics at discharge,South
+57095,Male,96%,99%,99%,Antithrombotics at discharge,South
+57095,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+57095,Male,83%,97%,97%,Anticoagulation for AF at discharge,South
+57095,Female,98%,98%,97%,Statins at Discharge,South
+57095,Male,100%,99%,98%,Statins at Discharge,South
+57095,Female,100%,97%,98%,Smoking Cessation Counseling,South
+57095,Male,100%,98%,97%,Smoking Cessation Counseling,South
+57095,Female,93%,94%,93%,Defect Free Care,South
+57095,Male,89%,94%,93%,Defect Free Care,South
+57095,Female,57%,68%,52%,Door To Needle Time Within 60 Minutes,South
+57095,Male,75%,66%,56%,Door To Needle Time Within 60 Minutes,South
+57095,Female,28%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+57095,Male,30%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+57095,Female,50%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+57095,Male,36%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+57242,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57242,Male,100%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+57242,Female,100%,98%,98%,Early Antithrombotics (2 days),South
+57242,Male,100%,97%,98%,Early Antithrombotics (2 days),South
+57242,Female,100%,97%,98%,VTE Prophylaxis,South
+57242,Male,100%,97%,98%,VTE Prophylaxis,South
+57242,Female,100%,99%,99%,Antithrombotics at discharge,South
+57242,Male,100%,99%,99%,Antithrombotics at discharge,South
+57242,Female,100%,97%,97%,Anticoagulation for AF at discharge,South
+57242,Male,100%,97%,97%,Anticoagulation for AF at discharge,South
+57242,Female,100%,98%,97%,Statins at Discharge,South
+57242,Male,100%,99%,98%,Statins at Discharge,South
+57242,Female,100%,97%,98%,Smoking Cessation Counseling,South
+57242,Male,100%,98%,97%,Smoking Cessation Counseling,South
+57242,Female,100%,94%,93%,Defect Free Care,South
+57242,Male,100%,94%,93%,Defect Free Care,South
+57242,Female,33%,68%,52%,Door To Needle Time Within 60 Minutes,South
+57242,Male,67%,66%,56%,Door To Needle Time Within 60 Minutes,South
+57242,Female,11%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+57242,Male,6%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+57242,Female,38%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+57242,Male,38%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+65056,Female,75%,92%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,
+65056,Male,75%,93%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,
+65056,Female,96%,98%,98%,Early Antithrombotics (2 days),
+65056,Male,99%,99%,98%,Early Antithrombotics (2 days),
+65056,Female,97%,98%,98%,VTE Prophylaxis,
+65056,Male,99%,99%,98%,VTE Prophylaxis,
+65056,Female,100%,100%,99%,Antithrombotics at discharge,
+65056,Male,100%,100%,99%,Antithrombotics at discharge,
+65056,Female,100%,98%,97%,Anticoagulation for AF at discharge,
+65056,Male,91%,96%,97%,Anticoagulation for AF at discharge,
+65056,Female,100%,98%,97%,Statins at Discharge,
+65056,Male,100%,97%,98%,Statins at Discharge,
+65056,Female,100%,96%,98%,Smoking Cessation Counseling,
+65056,Male,100%,95%,97%,Smoking Cessation Counseling,
+65056,Female,91%,94%,93%,Defect Free Care,
+65056,Male,95%,94%,93%,Defect Free Care,
+65056,Male,11%,50%,56%,Door To Needle Time Within 60 Minutes,
+65056,Female,10%,24%,34%,Door to CT Time Within 25 Minutes (All Strokes),
+65056,Male,15%,25%,35%,Door to CT Time Within 25 Minutes (All Strokes),
+65056,Female,38%,32%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+65056,Male,35%,39%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,
+65695,Female,100%,96%,94%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+65695,Male,76%,97%,95%,rtPA Arrive by 2 hour and Treat by 3 hour,South
+65695,Female,97%,98%,98%,Early Antithrombotics (2 days),South
+65695,Male,95%,97%,98%,Early Antithrombotics (2 days),South
+65695,Female,83%,97%,98%,VTE Prophylaxis,South
+65695,Male,88%,97%,98%,VTE Prophylaxis,South
+65695,Female,98%,99%,99%,Antithrombotics at discharge,South
+65695,Male,96%,99%,99%,Antithrombotics at discharge,South
+65695,Female,85%,97%,97%,Anticoagulation for AF at discharge,South
+65695,Male,88%,97%,97%,Anticoagulation for AF at discharge,South
+65695,Female,90%,98%,97%,Statins at Discharge,South
+65695,Male,95%,99%,98%,Statins at Discharge,South
+65695,Female,100%,97%,98%,Smoking Cessation Counseling,South
+65695,Male,93%,98%,97%,Smoking Cessation Counseling,South
+65695,Female,76%,94%,93%,Defect Free Care,South
+65695,Male,81%,94%,93%,Defect Free Care,South
+65695,Female,31%,68%,52%,Door To Needle Time Within 60 Minutes,South
+65695,Male,23%,66%,56%,Door To Needle Time Within 60 Minutes,South
+65695,Female,56%,42%,34%,Door to CT Time Within 25 Minutes (All Strokes),South
+65695,Male,55%,42%,35%,Door to CT Time Within 25 Minutes (All Strokes),South
+65695,Female,43%,46%,38%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+65695,Male,31%,42%,40%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,South
+69905,Female,50%,83%,83%,Early Antithrombotics (2 days),PR
+69905,Male,69%,86%,86%,Early Antithrombotics (2 days),PR
+69905,Female,25%,79%,79%,VTE Prophylaxis,PR
+69905,Male,77%,79%,79%,VTE Prophylaxis,PR
+69905,Female,100%,93%,93%,Antithrombotics at discharge,PR
+69905,Female,100%,83%,83%,Statins at Discharge,PR
+69905,Female,10%,63%,63%,Defect Free Care,PR
+69905,Male,14%,64%,64%,Defect Free Care,PR
+69905,Female,20%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+71305,Female,100%,68%,68%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+71305,Female,95%,83%,83%,Early Antithrombotics (2 days),PR
+71305,Male,100%,86%,86%,Early Antithrombotics (2 days),PR
+71305,Female,78%,79%,79%,VTE Prophylaxis,PR
+71305,Male,89%,79%,79%,VTE Prophylaxis,PR
+71305,Female,100%,93%,93%,Antithrombotics at discharge,PR
+71305,Male,100%,93%,93%,Antithrombotics at discharge,PR
+71305,Female,100%,90%,90%,Anticoagulation for AF at discharge,PR
+71305,Male,100%,94%,94%,Anticoagulation for AF at discharge,PR
+71305,Female,100%,83%,83%,Statins at Discharge,PR
+71305,Male,90%,84%,84%,Statins at Discharge,PR
+71305,Female,100%,100%,100%,Smoking Cessation Counseling,PR
+71305,Male,100%,94%,94%,Smoking Cessation Counseling,PR
+71305,Female,74%,63%,63%,Defect Free Care,PR
+71305,Male,83%,64%,64%,Defect Free Care,PR
+71305,Female,57%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+71305,Male,85%,31%,31%,Door to CT Time Within 25 Minutes (All Strokes),PR
+71305,Female,11%,56%,56%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+71305,Male,33%,53%,53%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+72828,Female,100%,83%,83%,Early Antithrombotics (2 days),PR
+72828,Male,92%,86%,86%,Early Antithrombotics (2 days),PR
+72828,Female,38%,79%,79%,VTE Prophylaxis,PR
+72828,Male,62%,79%,79%,VTE Prophylaxis,PR
+72828,Female,63%,93%,93%,Antithrombotics at discharge,PR
+72828,Male,27%,93%,93%,Antithrombotics at discharge,PR
+72828,Female,50%,90%,90%,Anticoagulation for AF at discharge,PR
+72828,Female,63%,83%,83%,Statins at Discharge,PR
+72828,Female,33%,63%,63%,Defect Free Care,PR
+72828,Male,8%,64%,64%,Defect Free Care,PR
+72828,Female,71%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+72828,Male,38%,31%,31%,Door to CT Time Within 25 Minutes (All Strokes),PR
+75346,Female,100%,68%,68%,rtPA Arrive by 2 hour and Treat by 3 hour,PR
+75346,Female,20%,63%,63%,Defect Free Care,PR
+75346,Female,50%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+75346,Female,100%,56%,56%,rtPA Arrive by 3.5 hour and Treat by 4.5 hour,PR
+77089,Female,86%,83%,83%,Early Antithrombotics (2 days),PR
+77089,Male,77%,86%,86%,Early Antithrombotics (2 days),PR
+77089,Female,59%,79%,79%,VTE Prophylaxis,PR
+77089,Male,47%,79%,79%,VTE Prophylaxis,PR
+77089,Female,81%,93%,93%,Antithrombotics at discharge,PR
+77089,Male,81%,93%,93%,Antithrombotics at discharge,PR
+77089,Female,100%,90%,90%,Anticoagulation for AF at discharge,PR
+77089,Female,64%,83%,83%,Statins at Discharge,PR
+77089,Male,74%,84%,84%,Statins at Discharge,PR
+77089,Male,50%,94%,94%,Smoking Cessation Counseling,PR
+77089,Female,42%,63%,63%,Defect Free Care,PR
+77089,Male,33%,64%,64%,Defect Free Care,PR
+77089,Female,12%,25%,25%,Door to CT Time Within 25 Minutes (All Strokes),PR
+77089,Male,16%,31%,31%,Door to CT Time Within 25 Minutes (All Strokes),PR
