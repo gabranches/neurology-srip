@@ -1,5 +1,4 @@
 # Dependencies
-require(png)
 require(ggplot2)
 require(reshape2)
 require(scales)
@@ -67,20 +66,13 @@ create_ethnicities_chart <- function(outcome, df) {
 
   # Rearranges the data fram by race
   df1 <- df_restructure(df, "race");
-
-  # Generate text for y label fractions
-  ylab_text <- "\n";
-  for(i in 1:nrow(df)) {
-      row <- df[i,]
-      ylab_text <- paste(ylab_text, row$race, " " , row$num_N, "/", row$deno_N, "    ", sep="")
-  }
    
   # Create ethnicity plot 
   g <- ggplot(data=df1, aes(x=race, y=value, fill=variable)) +
       geom_bar(size=.3, colour="black", stat="identity", position=position_dodge(), ) + coord_flip() +
       theme_grey() +
       theme(legend.position="bottom", legend.title=element_blank(), plot.margin=unit(c(2,2,2,2), "cm")) +
-      ggtitle(outcome) + ylab(ylab_text) + xlab("") +
+      ggtitle(outcome) + ylab("") + xlab("") +
       scale_y_continuous(labels=percent, limits=c(0,1), breaks=seq(0, 1, 0.1)) +
       geom_text(aes(label=paste(label=value*100, "%", sep="")), position=position_dodge(width=0.9), hjust=1.2);
       
@@ -93,20 +85,13 @@ create_gender_chart <- function(outcome, df) {
 
   # Rearranges the data fram by sex
   df1 <- df_restructure(df, "sex");
-
-  # Generate text for y label fractions
-  ylab_text <- "\n";
-  for(i in 1:nrow(df)) {
-      row <- df[i,]
-      ylab_text <- paste(ylab_text, row$sex, " " , row$num_N, "/", row$deno_N, "    ", sep="")
-  }
    
   # Create ethnicity plot 
   g <- ggplot(data=df1, aes(x=sex, y=value, fill=variable)) +
       geom_bar(size=.3, colour="black", stat="identity", position=position_dodge(), ) + coord_flip() +
       theme_grey() +
       theme(legend.position="bottom", legend.title=element_blank(), plot.margin=unit(c(2,2,2,2), "cm")) +
-      ggtitle(outcome) + ylab(ylab_text) + xlab("") +
+      ggtitle(outcome) + ylab("") + xlab("") +
       scale_y_continuous(labels=percent, limits=c(0,1), breaks=seq(0, 1, 0.1)) +
       geom_text(aes(label=paste(label=value*100, "%", sep="")), position=position_dodge(width=0.9), hjust=1.2);
       
@@ -181,6 +166,9 @@ front_page <- function(site_id) {
 # Rearrange the data structure by "type"
 df_restructure <- function(df, type) {
     df <- melt(df, id=c(type, "Hospital_ID", "outcome", "num_N", "deno_N"));
+    
+    # Change "type" column so that it also shows numerators and denominatorssd
+    df[[type]] <- paste(df[[type]], "\n", df$"num_N", "/", df$"deno_N", sep="")
     return(df);
 }
 
@@ -231,7 +219,6 @@ ethnicity_data <- load_data('ethnicity.csv');
 dfc_rank_data <- load_data('dfc_ranks.csv');
 dfc_stats_data <- load_data('dfc_stats.csv');
 gender_data <- load_data('gender.csv');
-logo_img <- readPNG("data/logo.png");
 
 total_ischemic_strokes <- sum(dfc_stats_data$Black) + 
     sum(dfc_stats_data$FL_Hispanic) + 

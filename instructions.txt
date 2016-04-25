@@ -1,16 +1,39 @@
-download r 3.2.5
+
+// Setting up the data files
+
+The "data" folder has all of the source data for the script, all files are in .csv format
+
+dfc_ranks.csv -> the data for the summary page with all hospitals
+dfc_stats -> the summary stats for each hospital
+ethnicity.csv -> the ethnicity data
+gender.csv -> the gender data
+
+In order for the script to run, the data files need to be in the exact same format as the templates. There is a folder called "template" which has the correct format for each file. Use these template files for reference, but save all data files under the "data" folder.
+
+The numbers must be in decimal format, not percent. Example: .86 instead of 86%
+
+The headers have to stay the same. Example: in ethnicity.csv, "Hospital_ID" must be the header for that column, or else the script won't work.
+
+
+
+
+// R Installation and How to Run the Script
+
+download R 3.2.5
 	https://cran.r-project.org/bin/windows/base/
 
 file -> change dir
 	select "srip" folder directory
 
-type this in R: install.packages("ggplot2", dependencies=TRUE)
+install.packages("ggplot2", dependencies=TRUE)
 	if it asks you to use a personal library, hit "yes"
-	select a mirror from the list (doesn't matter which one)
+	select a mirror from the list (pick one in the USA)
 
-type this in R: install.packages("reshape2", dependencies=TRUE)
+install.packages("reshape2", dependencies=TRUE)
 
-to run the program, type this into R: source("run.r")
+to run the program, type: source("run.r")
 	you must be in the root directory of the project in order for it to work
 
-the program might be unresponsive while it runs
+the program might be unresponsive while it generates the reports
+
+the output reports will be in the "reports" folder
